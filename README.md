@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-DeadStock is a convenient way to track how the sneaker market is doing, track its history, and help investors/buyers alike plan their next sale/purchase. After a user creates their profile among various other features, they can customize their dashboard to display data for specific sneaker styles and brands of interest. 
+DeadStock is a convenient way to see how the sneaker market is doing, track its history, and help investors/buyers alike plan their next sale/purchase. After a user creates their profile among various other features, they can customize their dashboard to display data for specific sneaker styles and brands of interest. 
 
 ### App Evaluation
 - **Category:** Business/Lifestyle
