@@ -79,7 +79,7 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://DeadStock.github.com/wireframe.jpg" width=600>
+<img src="https://github.com/pranathip/DeadStock/wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
