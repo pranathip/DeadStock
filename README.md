@@ -8,11 +8,11 @@
 
 ## Overview
 ### Description
-DeadStock is a convenient way to track how the sneaker market is doing, track its history, and help investors/buyers alike plan their next sale/purchase. After a user creates their profile among various other features, they can customize their dashboard to display data for specific sneaker styles and brands of interest. 
+DeadStock is a convenient way to see how the sneaker market is doing, track its history, and help investors/buyers alike plan their next sale/purchase. After a user creates their profile among various other features, they can customize their dashboard to display data for specific sneaker styles and brands of interest. 
 
 ### App Evaluation
 - **Category:** Business/Lifestyle
-- **Mobile:** The mobile interface of the app allows users to track sneaker trends and data at their finger tips; the equivalent of a mobile user checking the apple "stocks" app.
+- **Mobile:** The mobile interface of the app allows users to conveniently track sneaker trends and data at their finger tips.
 - **Story:** Allows users to keep track of trends and recent drops/sneaker news with a simple, straight-forward interface. Think - Apple's stocks app for sneakers.
 - **Market:** Anyone who is a sneakerhead, interested in the trends/data behind the sneaker market, or wants to buy coveted colorways could enjoy this app.
 - **Habit:** Users could open this app regularly to keep tabs on a specific shoe's price increases/decreases, especially if they're looking to make a purchase or are deciding whether or not they should hold/sell stock. Sneaker prices can fluctuate daily depending on major drops, pop culture, or other social phenomena.
@@ -79,7 +79,7 @@ DeadStock is a convenient way to track how the sneaker market is doing, track it
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
