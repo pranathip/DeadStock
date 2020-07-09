@@ -7,6 +7,7 @@
 //
 
 #import "LogInViewController.h"
+@import Parse;
 
 @interface LogInViewController ()
 
@@ -20,6 +21,33 @@
 }
 - (IBAction)signUpButtonTapped:(id)sender {
     [self dismissViewControllerAnimated:TRUE completion:nil];
+}
+- (IBAction)didTapLoginButton:(id)sender {
+    NSString *username = self.usernameTextField.text;
+    NSString *password = self.passwordTextField.text;
+    
+    [PFUser logInWithUsernameInBackground:username password:password block:^(PFUser * user, NSError *  error) {
+        if (error != nil) {
+            NSLog(@"User log in failed: %@", error.localizedDescription);
+            UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"Error Logging In" message:error.localizedDescription
+            preferredStyle:(UIAlertControllerStyleAlert)];
+            // create a cancel action
+            UIAlertAction *cancelAction = [UIAlertAction actionWithTitle:@"Try Again" style:UIAlertActionStyleCancel handler:^(UIAlertAction * _Nonnull action) {
+                // handle cancel response here. Doing nothing will dismiss the view.
+            }];
+            // add the cancel action to the alertController
+            [alert addAction:cancelAction];
+            
+            [self presentViewController:alert animated:YES completion:^{
+                // optional code for what happens after the alert controller has finished presenting
+            }];
+        } else {
+            NSLog(@"User logged in successfully");
+            
+            // display view controller that needs to shown after successful login
+            //[self performSegueWithIdentifier:@"logInSegue" sender:nil];
+        }
+    }];
 }
 
 /*
