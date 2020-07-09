@@ -20,7 +20,7 @@
     // Override point for customization after application launch.
     ParseClientConfiguration *config = [ParseClientConfiguration   configurationWithBlock:^(id<ParseMutableClientConfiguration> configuration) {
         
-        configuration.applicationId = @"myAppId";
+        configuration.applicationId = @"deadstockAppId";
         configuration.server = @"https://deadstockapp.herokuapp.com/parse";
     }];
     [Parse initializeWithConfiguration:config];

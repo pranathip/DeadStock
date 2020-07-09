@@ -21,6 +21,7 @@
 		C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012C924B7A0C100BAAD17 /* LaunchViewController.m */; };
 		C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012CC24B7A28E00BAAD17 /* SignUpViewController.m */; };
 		C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */; };
+		C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012D224B7B13E00BAAD17 /* ImageHelper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,8 @@
 		C38012CC24B7A28E00BAAD17 /* SignUpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SignUpViewController.m; sourceTree = "<group>"; };
 		C38012CE24B7AB2B00BAAD17 /* LogInViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LogInViewController.h; sourceTree = "<group>"; };
 		C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LogInViewController.m; sourceTree = "<group>"; };
+		C38012D124B7B13E00BAAD17 /* ImageHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageHelper.h; sourceTree = "<group>"; };
+		C38012D224B7B13E00BAAD17 /* ImageHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageHelper.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +150,8 @@
 				C380129E24B78CBD00BAAD17 /* LaunchScreen.storyboard */,
 				C38012A124B78CBD00BAAD17 /* Info.plist */,
 				C38012A224B78CBD00BAAD17 /* main.m */,
+				C38012D124B7B13E00BAAD17 /* ImageHelper.h */,
+				C38012D224B7B13E00BAAD17 /* ImageHelper.m */,
 			);
 			path = DeadStock;
 			sourceTree = "<group>";
@@ -437,6 +442,7 @@
 				C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */,
 				C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */,
 				C38012A324B78CBD00BAAD17 /* main.m in Sources */,
+				C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */,
 				C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */,
 				C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */,
 			);
