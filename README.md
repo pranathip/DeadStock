@@ -83,10 +83,42 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+**Sneaker**
+| Property | Type | Description |
+| -------- | ---- | ----------- |
+| dashboard_author | PFUser pointer | if it's in the database, logs the user who put it on their dashboard |
+| wishlist_author | PFUser pointer | if it's in the database, logs the user who put it on their wishlist |
+| url | NSURL | URL leading to the sneaker's StockX profile |
+| brand | String | brand of sneaker (nike, adidas, air jordan, etc.) |
+| type | String | type of shoe (yeezy boost, jordan 1, etc.) |
+| name | String | sneaker type + colorway, most common name (Jordan 1 Retro High Fearless UNC Chicago) |
+| colorway | String | sneaker colorway (White/University Blue-Varsity Red-Black) |
+| volatility | NSNumber | sneaker price change volatility (a percentage) |
+| total sales | NSNumber | number of sales made on the sneaker |
+| average resell price | NSNumber | they KEY value to take away, the price the sneaker currently sells for on the market |
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+**List of network requests by screen**
+* Dashboard Screen
+  * (Read/GET) Query all sneakers that user has added to dashboard
+  * (Create/POST) Create a new addition to the collectionView dashboard based on user input
+  * (Delete) Delete an existing sneaker from the dashboard
+  * (Read/GET) Query all sneakers using a search based on key words that user inputs into the search bar
+* Profile Screen
+  * (Read/GET) Query logged in user object
+  * (Update/PUT) Update user profile picture, first/last name, username, email, and/or bio
+* Wish-list Screen
+  * (Read/GET) Query all sneakers that user has added to wishlist
+  * (Create/POST) create a new addition to the tableView list based on user input
+  * (Delete) Delete an existing sneaker from wish-list
+  * (Read/GET) Query all sneakers using a search based on key words that user inputs into search bar
+* Details Screen
+  * (Read/GET) Query all information/extended details about the sneaker in question
+
+**Sneaker API (will be used primarily for the wishlist screen, while the scraped StockX data will be used to update the dashboard**
+* Base URL - https://api.thesneakerdatabase.com
+| HTTP Verb | Endpoint | Description | return value |
+| --- | --- | --- |
+| `GET` | /v1/sneakers | search for sneakers | returns a list of sneakers |
+| `GET` | /v1/sneakers/{sneakerId} | find sneaker by ID | returns a single sneaker | 
