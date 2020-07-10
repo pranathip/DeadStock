@@ -49,6 +49,9 @@
         }
     }];
 }
+- (IBAction)didTapCloseButton:(id)sender {
+    [self dismissViewControllerAnimated:YES completion:nil];
+}
 
 /*
 #pragma mark - Navigation

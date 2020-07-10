@@ -18,18 +18,20 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    
+    PFUser *currentUser = [PFUser currentUser];
     // Configure profile picture to show current user data
-    self.profilePictureView.layer.cornerRadius = 31;
+    self.profilePictureView.layer.cornerRadius = 45;
     [self.profilePictureView.layer setBorderColor: [[UIColor lightGrayColor] CGColor]];
     [self.profilePictureView.layer setBorderWidth: 1.5];
+    self.profilePictureView.file = currentUser[@"profilePicture"];
+    [self.profilePictureView loadInBackground];
     
     // Configure text fields to show current user data
-    PFUser *currentUser = [PFUser currentUser];
     self.emailTextField.text = currentUser.email;
     self.firstNameTextField.text = currentUser[@"firstName"];
     self.lastNameTextField.text = currentUser[@"lastName"];
     self.usernameTextField.text = currentUser.username;
+    self.nameHeaderLabel.text = [NSString stringWithFormat:@"%@ %@", currentUser[@"firstName"], currentUser[@"lastName"]];
     
 }
 
