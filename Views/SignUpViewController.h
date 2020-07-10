@@ -18,6 +18,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UITextField *usernameTextField;
 @property (weak, nonatomic) IBOutlet UITextField *passwordTextField;
 @property (weak, nonatomic) IBOutlet PFImageView *profilePictureView;
+@property (weak, nonatomic) IBOutlet UILabel *animatedEmailLabel;
+@property (weak, nonatomic) IBOutlet UILabel *animatedFirstNameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *animatedLastNameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *animatedUsernameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *animatedPasswordLabel;
 @end
 
 NS_ASSUME_NONNULL_END

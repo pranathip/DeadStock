@@ -18,6 +18,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    // Set up animation labels
+    self.animatedUsernameLabel.alpha = 0;
+    self.animatedPasswordLabel.alpha = 0;
 }
 - (IBAction)signUpButtonTapped:(id)sender {
     [self dismissViewControllerAnimated:TRUE completion:nil];
@@ -52,6 +56,52 @@
 - (IBAction)didTapCloseButton:(id)sender {
     [self dismissViewControllerAnimated:YES completion:nil];
 }
+
+
+// TEXT FIELD ANIMATIONS
+- (IBAction)usernameEditingBegin:(id)sender {
+    [self editingBeganOnField:self.usernameTextField withAnimationLabel:self.animatedUsernameLabel];
+}
+- (IBAction)usernameEditingEnd:(id)sender {
+    [self editingEndedOnField:self.usernameTextField withAnimationLabel:self.animatedUsernameLabel withPlaceholder:@"USERNAME"];
+}
+- (IBAction)passwordEditingBegin:(id)sender {
+    [self editingBeganOnField:self.passwordTextField withAnimationLabel:self.animatedPasswordLabel];
+}
+- (IBAction)passwordEditingEnd:(id)sender {
+    [self editingEndedOnField:self.passwordTextField withAnimationLabel:self.animatedPasswordLabel withPlaceholder:@"PASSWORD"];
+}
+
+// TEXT FIELD ANIMATION HELPER METHODS
+- (void)editingBeganOnField:(UITextField *)textField withAnimationLabel:(UILabel *)label{
+    if (label.alpha != 1) {
+        NSLayoutConstraint *top = [NSLayoutConstraint constraintWithItem:label attribute:NSLayoutAttributeTop relatedBy:NSLayoutRelationEqual toItem:textField attribute:NSLayoutAttributeTop multiplier:1 constant:-35];
+        [self.view addConstraint:top];
+        //[label.bottomAnchor constraintEqualToAnchor:textField.bottomAnchor].active = NO;
+        CGRect newFrame = label.frame;
+        newFrame.origin.y -=35;
+        [UIView animateWithDuration:0.4 animations:^{
+            label.frame = newFrame;
+            label.alpha = 1;
+            textField.placeholder = @"";
+        }];
+    }
+}
+
+- (void)editingEndedOnField:(UITextField *)textField withAnimationLabel:(UILabel *)label withPlaceholder:(NSString *)placeholder {
+    if ([textField.text isEqual:@""]) {
+        CGRect newFrame = label.frame;
+        newFrame.origin.y +=15;
+        
+        [UIView animateWithDuration:0.1 animations:^{
+            //label.frame = newFrame;
+            label.alpha = 0;
+            textField.placeholder = placeholder;
+        }];
+        
+    }
+}
+
 
 /*
 #pragma mark - Navigation
