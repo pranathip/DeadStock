@@ -10,6 +10,8 @@
 		29908A591955A9F1EB8ADBB8 /* Pods_DeadStock_DeadStockUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 492AE18E6FC64F18929D63FF /* Pods_DeadStock_DeadStockUITests.framework */; };
 		8039D061AEFD2447398865BA /* Pods_DeadStock.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22FBDCA8D62308E85AADAA5D /* Pods_DeadStock.framework */; };
 		A4BE75DB9C9EBD03CC410D3B /* Pods_DeadStockTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5854A7217291A1853CD0F820 /* Pods_DeadStockTests.framework */; };
+		C331E5C924B828660031A3D0 /* StocksViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5C824B828660031A3D0 /* StocksViewController.m */; };
+		C331E5CD24B832450031A3D0 /* SneakerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5CC24B832450031A3D0 /* SneakerCell.m */; };
 		C380129224B78CBB00BAAD17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129124B78CBB00BAAD17 /* AppDelegate.m */; };
 		C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129424B78CBB00BAAD17 /* SceneDelegate.m */; };
 		C380129B24B78CBB00BAAD17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C380129924B78CBB00BAAD17 /* Main.storyboard */; };
@@ -52,6 +54,10 @@
 		58ACE33B3631750BC66F9D24 /* Pods-DeadStockTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeadStockTests.debug.xcconfig"; path = "Target Support Files/Pods-DeadStockTests/Pods-DeadStockTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5939891BE337EBEEE0E02383 /* Pods-DeadStockTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeadStockTests.release.xcconfig"; path = "Target Support Files/Pods-DeadStockTests/Pods-DeadStockTests.release.xcconfig"; sourceTree = "<group>"; };
 		B3971876BF2F7A8527D559C4 /* Pods-DeadStock.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeadStock.debug.xcconfig"; path = "Target Support Files/Pods-DeadStock/Pods-DeadStock.debug.xcconfig"; sourceTree = "<group>"; };
+		C331E5C724B828660031A3D0 /* StocksViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StocksViewController.h; sourceTree = "<group>"; };
+		C331E5C824B828660031A3D0 /* StocksViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StocksViewController.m; sourceTree = "<group>"; };
+		C331E5CB24B832450031A3D0 /* SneakerCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SneakerCell.h; sourceTree = "<group>"; };
+		C331E5CC24B832450031A3D0 /* SneakerCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SneakerCell.m; sourceTree = "<group>"; };
 		C380128D24B78CBB00BAAD17 /* DeadStock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeadStock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C380129024B78CBB00BAAD17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C380129124B78CBB00BAAD17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -118,9 +124,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		C331E5CA24B832250031A3D0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C331E5CB24B832450031A3D0 /* SneakerCell.h */,
+				C331E5CC24B832450031A3D0 /* SneakerCell.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		C380128424B78CBB00BAAD17 = {
 			isa = PBXGroup;
 			children = (
+				C331E5CA24B832250031A3D0 /* Models */,
 				C38012C724B7A0A600BAAD17 /* Views */,
 				C380128F24B78CBB00BAAD17 /* DeadStock */,
 				C38012AB24B78CBD00BAAD17 /* DeadStockTests */,
@@ -188,6 +204,8 @@
 				C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */,
 				C38012D424B7DDAE00BAAD17 /* ProfileViewController.h */,
 				C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */,
+				C331E5C724B828660031A3D0 /* StocksViewController.h */,
+				C331E5C824B828660031A3D0 /* StocksViewController.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -447,10 +465,12 @@
 				C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */,
 				C38012D624B7DDAE00BAAD17 /* ProfileViewController.m in Sources */,
 				C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */,
+				C331E5C924B828660031A3D0 /* StocksViewController.m in Sources */,
 				C38012A324B78CBD00BAAD17 /* main.m in Sources */,
 				C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */,
 				C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */,
 				C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */,
+				C331E5CD24B832450031A3D0 /* SneakerCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
