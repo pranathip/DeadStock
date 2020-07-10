@@ -22,6 +22,7 @@
 		C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012CC24B7A28E00BAAD17 /* SignUpViewController.m */; };
 		C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */; };
 		C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012D224B7B13E00BAAD17 /* ImageHelper.m */; };
+		C38012D624B7DDAE00BAAD17 /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,8 @@
 		C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LogInViewController.m; sourceTree = "<group>"; };
 		C38012D124B7B13E00BAAD17 /* ImageHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageHelper.h; sourceTree = "<group>"; };
 		C38012D224B7B13E00BAAD17 /* ImageHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageHelper.m; sourceTree = "<group>"; };
+		C38012D424B7DDAE00BAAD17 /* ProfileViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
+		C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +186,8 @@
 				C38012CC24B7A28E00BAAD17 /* SignUpViewController.m */,
 				C38012CE24B7AB2B00BAAD17 /* LogInViewController.h */,
 				C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */,
+				C38012D424B7DDAE00BAAD17 /* ProfileViewController.h */,
+				C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -440,6 +445,7 @@
 			files = (
 				C380129224B78CBB00BAAD17 /* AppDelegate.m in Sources */,
 				C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */,
+				C38012D624B7DDAE00BAAD17 /* ProfileViewController.m in Sources */,
 				C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */,
 				C38012A324B78CBD00BAAD17 /* main.m in Sources */,
 				C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */,

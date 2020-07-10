@@ -52,6 +52,7 @@
     newUser[@"lastName"] = self.lastNameTextField.text;
     newUser.username = self.usernameTextField.text;
     newUser.password = self.passwordTextField.text;
+    newUser[@"profilePicture"] = [ImageHelper getPFFileFromImage:[ImageHelper resizeImage:self.profilePictureView.image withSize:CGSizeMake(100, 100)]];
     
     // call sign up function on the object
     [newUser signUpInBackgroundWithBlock:^(BOOL succeeded, NSError * error) {
@@ -72,7 +73,7 @@
         } else {
             NSLog(@"User registered successfully");
             // manually segue to logged in view
-            //[self performSegueWithIdentifier:@"signUpSegue" sender:nil];
+            [self performSegueWithIdentifier:@"signupSegue" sender:nil];
         }
     }];
 }
@@ -95,17 +96,6 @@
 
     // Do something with the images (based on your use case)
     self.profilePictureView.image = originalImage;
-    
-    PFUser *currentUser = [PFUser currentUser];
-    currentUser[@"profilePicture"] = [ImageHelper getPFFileFromImage:[ImageHelper resizeImage:self.profilePictureView.image withSize:CGSizeMake(100, 100)]];
-    
-    [currentUser saveInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
-        if (succeeded) {
-            NSLog(@"Profile picture updated");
-        } else {
-            NSLog(@"Error updating profile picture: %@", error.localizedDescription);
-        }
-    }];
     
     // Dismiss UIImagePickerController to go back to your original view controller
     [self dismissViewControllerAnimated:YES completion:nil];
