@@ -1,0 +1,1099 @@
+1594251957263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilekHssBg"
+1594251959580	Marionette	INFO	Listening on port 50744
+1594251959655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594251966912	Marionette	INFO	Stopped listening on port 50744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594251974409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilefXSML5"
+1594251976462	Marionette	INFO	Listening on port 50892
+1594251976487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=before-2001 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252017776	Marionette	INFO	Stopped listening on port 50892
+1594252022172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiledlA032"
+1594252024090	Marionette	INFO	Listening on port 51064
+1594252024145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252034928	Marionette	INFO	Stopped listening on port 51064
+1594252039299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileJlDhpm"
+1594252041246	Marionette	INFO	Listening on port 51188
+1594252041269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252052111	Marionette	INFO	Stopped listening on port 51188
+1594252056492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilelCtzdI"
+1594252058807	Marionette	INFO	Listening on port 51311
+1594252058899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252099961	Marionette	INFO	Stopped listening on port 51311
+1594252106377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile3L71x7"
+1594252108419	Marionette	INFO	Listening on port 51505
+1594252108447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2004 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252148772	Marionette	INFO	Stopped listening on port 51505
+1594252153238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileoO8UUt"
+1594252155134	Marionette	INFO	Listening on port 51690
+1594252155207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2005 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252166024	Marionette	INFO	Stopped listening on port 51690
+1594252172397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileV5OxK2"
+1594252174360	Marionette	INFO	Listening on port 51847
+1594252174375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252215336	Marionette	INFO	Stopped listening on port 51847
+1594252219793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileANN3yF"
+1594252221652	Marionette	INFO	Listening on port 51985
+1594252221756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594252262691	Marionette	INFO	Stopped listening on port 51985
+1594252267062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilebEAIPJ"
+1594252268909	Marionette	INFO	Listening on port 52122
+1594252268937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594252310732	Marionette	INFO	Stopped listening on port 52122
+1594252315160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileAK13D6"
+1594252316800	Marionette	INFO	Listening on port 52271
+1594252316823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2009 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252359693	Marionette	INFO	Stopped listening on port 52271
+1594252363130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilek1NiGG"
+1594252365070	Marionette	INFO	Listening on port 52414
+1594252365099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2010 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252406365	Marionette	INFO	Stopped listening on port 52414
+1594252410833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLBRnzP"
+1594252412737	Marionette	INFO	Listening on port 52569
+1594252412813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252453820	Marionette	INFO	Stopped listening on port 52569
+1594252458297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilefNxEIc"
+1594252460152	Marionette	INFO	Listening on port 52727
+1594252460170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2012 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594252501701	Marionette	INFO	Stopped listening on port 52727
+1594252506085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileNr3lP5"
+1594252507931	Marionette	INFO	Listening on port 52868
+1594252507950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/nike/foamposite?years=2013 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1594252816658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileR8UjJO"
+1594252818599	Marionette	INFO	Listening on port 53101
+1594252818620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594252834386	Marionette	INFO	Stopped listening on port 53101
+1594252838829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilewmRV3x"
+1594252840702	Marionette	INFO	Listening on port 53248
+1594252840807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252882377	Marionette	INFO	Stopped listening on port 53248
+1594252886858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileTDm6Le"
+1594252888936	Marionette	INFO	Listening on port 53400
+1594252888943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594252930619	Marionette	INFO	Stopped listening on port 53400
+1594252937119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile02x8cS"
+1594252939464	Marionette	INFO	Listening on port 53566
+1594252939510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594252980314	Marionette	INFO	Stopped listening on port 53566
+1594252984761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile41Fn56"
+1594252986668	Marionette	INFO	Listening on port 53760
+1594252986704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-2?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253027368	Marionette	INFO	Stopped listening on port 53760
+1594253031822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileANDUP8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253033613	Marionette	INFO	Listening on port 53918
+1594253033669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253075015	Marionette	INFO	Stopped listening on port 53918
+1594253079476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileSnIPr0"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253081440	Marionette	INFO	Listening on port 54132
+1594253081537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253123051	Marionette	INFO	Stopped listening on port 54132
+1594253126478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLXLtu9"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253128135	Marionette	INFO	Listening on port 54278
+1594253128236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-4?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253169030	Marionette	INFO	Stopped listening on port 54278
+1594253174423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileyms2Rl"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253176252	Marionette	INFO	Listening on port 54423
+1594253176268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-4?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253217615	Marionette	INFO	Stopped listening on port 54423
+1594253223096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilelgXV5i"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253224815	Marionette	INFO	Listening on port 54570
+1594253224846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-5?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253267191	Marionette	INFO	Stopped listening on port 54570
+1594253271625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile5vckpZ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253273313	Marionette	INFO	Listening on port 54727
+1594253273372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253313800	Marionette	INFO	Stopped listening on port 54727
+1594253321243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileCh2036"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253323041	Marionette	INFO	Listening on port 54872
+1594253323091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594253364096	Marionette	INFO	Stopped listening on port 54872
+1594253367514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile2OWxAs"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253369201	Marionette	INFO	Listening on port 55028
+1594253369261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253410360	Marionette	INFO	Stopped listening on port 55028
+1594253415731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileRoZ2pP"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253417633	Marionette	INFO	Listening on port 55248
+1594253417671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-7?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253458539	Marionette	INFO	Stopped listening on port 55248
+1594253463008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileweR21x"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253464863	Marionette	INFO	Listening on port 55397
+1594253464867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-7?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253505987	Marionette	INFO	Stopped listening on port 55397
+1594253510345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileyD0Bx8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253512116	Marionette	INFO	Listening on port 55535
+1594253512191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-8?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253552925	Marionette	INFO	Stopped listening on port 55535
+1594253557256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile7aHmou"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253559121	Marionette	INFO	Listening on port 55675
+1594253559204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594253693028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilewGK7qI"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253695030	Marionette	INFO	Listening on port 55832
+1594253695083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253709064	Marionette	INFO	Stopped listening on port 55832
+1594253713542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileajDzlC"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253715343	Marionette	INFO	Listening on port 55971
+1594253715382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-1?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253759249	Marionette	INFO	Stopped listening on port 55971
+1594253763598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile8cdngP"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253765359	Marionette	INFO	Listening on port 56111
+1594253765426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253807681	Marionette	INFO	Stopped listening on port 56111
+1594253812096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilefhu0wC"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253813894	Marionette	INFO	Listening on port 56266
+1594253813932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594253855142	Marionette	INFO	Stopped listening on port 56266
+1594253859586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiletm6Pni"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253861336	Marionette	INFO	Listening on port 56405
+1594253861419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594253902714	Marionette	INFO	Stopped listening on port 56405
+1594253907175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile0a5Hnp"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253908698	Marionette	INFO	Listening on port 56547
+1594253908706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-3?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253950553	Marionette	INFO	Stopped listening on port 56547
+1594253955006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile972CWb"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594253956652	Marionette	INFO	Listening on port 56683
+1594253956741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-3?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594253998482	Marionette	INFO	Stopped listening on port 56683
+1594254002944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileIfop97"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254004460	Marionette	INFO	Listening on port 56837
+1594254004469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-4?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254046250	Marionette	INFO	Stopped listening on port 56837
+1594254050711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilew7gMqq"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254052227	Marionette	INFO	Listening on port 56976
+1594254052250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594254094416	Marionette	INFO	Stopped listening on port 56976
+1594254098887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileEgm8dJ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254100389	Marionette	INFO	Listening on port 57119
+1594254100429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-5?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254141475	Marionette	INFO	Stopped listening on port 57119
+1594254145923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilerOHd9o"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254147615	Marionette	INFO	Listening on port 57261
+1594254147709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-5?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254189162	Marionette	INFO	Stopped listening on port 57261
+1594254193589	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile1VrgzG"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254195094	Marionette	INFO	Listening on port 57399
+1594254195175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-6?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254236247	Marionette	INFO	Stopped listening on port 57399
+1594254240714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileipBXXV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254242250	Marionette	INFO	Listening on port 57547
+1594254242316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-6?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254284769	Marionette	INFO	Stopped listening on port 57547
+1594254289173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileNmxss8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254290717	Marionette	INFO	Listening on port 57699
+1594254290746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594254331382	Marionette	INFO	Stopped listening on port 57699
+1594254335860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile0K4oQV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254337350	Marionette	INFO	Listening on port 57838
+1594254337438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-7?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254379458	Marionette	INFO	Stopped listening on port 57838
+1594254383927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileptbxtc"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254385425	Marionette	INFO	Listening on port 57988
+1594254385505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-8?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594254426207	Marionette	INFO	Stopped listening on port 57988
+1594254430640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileCLN4MV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254432080	Marionette	INFO	Listening on port 58126
+1594254432104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594254473287	Marionette	INFO	Stopped listening on port 58126
+1594254477677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileMqea71"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254479152	Marionette	INFO	Listening on port 58265
+1594254479239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594254520837	Marionette	INFO	Stopped listening on port 58265
+1594254527273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile6PYokD"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254528899	Marionette	INFO	Listening on port 58412
+1594254528959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594254572340	Marionette	INFO	Stopped listening on port 58412
+1594254575704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileATG6yb"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254577252	Marionette	INFO	Listening on port 58586
+1594254577302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594254952424	Marionette	INFO	Stopped listening on port 58586
+1594254959542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileB3JZb8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594254964237	Marionette	INFO	Listening on port 58833
+1594254964263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594255007079	Marionette	INFO	Stopped listening on port 58833
+1594255010491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLZRtOV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255012395	Marionette	INFO	Listening on port 59348
+1594255012427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-11?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255054956	Marionette	INFO	Stopped listening on port 59348
+1594255059403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile9QNtQ7"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255061230	Marionette	INFO	Listening on port 59541
+1594255061245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594255103224	Marionette	INFO	Stopped listening on port 59541
+1594255107667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilebEh6zj"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255109179	Marionette	INFO	Listening on port 59683
+1594255109209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594255152738	Marionette	INFO	Stopped listening on port 59683
+1594255161156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileIehfzp"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255162628	Marionette	INFO	Listening on port 59827
+1594255162694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594255204709	Marionette	INFO	Stopped listening on port 59827
+1594255209079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile2Jbs78"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255210642	Marionette	INFO	Listening on port 59971
+1594255210719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-13?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255253172	Marionette	INFO	Stopped listening on port 59971
+1594255257630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileOTBAZ2"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255259146	Marionette	INFO	Listening on port 60118
+1594255259164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-13?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255300201	Marionette	INFO	Stopped listening on port 60118
+1594255304660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileKwtvvb"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255306143	Marionette	INFO	Listening on port 60264
+1594255306196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594255347727	Marionette	INFO	Stopped listening on port 60264
+1594255352182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilebxBoo0"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255353653	Marionette	INFO	Listening on port 60420
+1594255353690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594255396000	Marionette	INFO	Stopped listening on port 60420
+1594255401488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileEVT47n"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255402985	Marionette	INFO	Listening on port 60564
+1594255403072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594255444134	Marionette	INFO	Stopped listening on port 60564
+1594255450597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile13qMJv"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255452120	Marionette	INFO	Listening on port 60703
+1594255452186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-15?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255463153	Marionette	INFO	Stopped listening on port 60703
+1594255467606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileOq3SED"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255469444	Marionette	INFO	Listening on port 60832
+1594255469491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-16?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255480663	Marionette	INFO	Stopped listening on port 60832
+1594255486150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileuDxbFp"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255487757	Marionette	INFO	Listening on port 60957
+1594255487840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-16?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255529093	Marionette	INFO	Stopped listening on port 60957
+1594255533531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile7PybMu"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255535386	Marionette	INFO	Listening on port 61119
+1594255535437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-17?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255576051	Marionette	INFO	Stopped listening on port 61119
+1594255580512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilemh7lwv"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255582131	Marionette	INFO	Listening on port 61280
+1594255582172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594255593405	Marionette	INFO	Stopped listening on port 61280
+1594255597850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile52IbPh"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255599453	Marionette	INFO	Listening on port 61402
+1594255599506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-18?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594255640477	Marionette	INFO	Stopped listening on port 61402
+1594255644881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiledj1JIV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255646306	Marionette	INFO	Listening on port 61550
+1594255646341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594255657198	Marionette	INFO	Stopped listening on port 61550
+1594255661608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile1Q81K9"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594255663104	Marionette	INFO	Listening on port 61670
+1594255663169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594256347292	Marionette	INFO	Stopped listening on port 61670
+1594256351763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilegjicNp"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256353997	Marionette	INFO	Listening on port 62382
+1594256354017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256394450	Marionette	INFO	Stopped listening on port 62382
+1594256397943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile5TUfz9"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256401098	Marionette	INFO	Listening on port 62560
+1594256401198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594256412888	Marionette	INFO	Stopped listening on port 62560
+1594256417356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileZmqT2c"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256419480	Marionette	INFO	Listening on port 62723
+1594256419519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256431514	Marionette	INFO	Stopped listening on port 62723
+1594256435957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileQ72ocD"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256437562	Marionette	INFO	Listening on port 62887
+1594256437599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256449661	Marionette	INFO	Stopped listening on port 62887
+1594256454270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileWz1kI4"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256455783	Marionette	INFO	Listening on port 63024
+1594256455810	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new SyntaxError("JSON.parse: unexpected character at line 1 column 1 of the JSON data", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 259))
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594256466717	Marionette	INFO	Stopped listening on port 63024
+1594256471109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile0iEyXN"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256472708	Marionette	INFO	Listening on port 63139
+1594256472756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256483844	Marionette	INFO	Stopped listening on port 63139
+1594256488325	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilethlfJr"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256489865	Marionette	INFO	Listening on port 63268
+1594256489952	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new SyntaxError("JSON.parse: unexpected character at line 1 column 1 of the JSON data", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 259))
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256500610	Marionette	INFO	Stopped listening on port 63268
+1594256505013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilePIiJDZ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256506541	Marionette	INFO	Listening on port 63381
+1594256506546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-23?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256520168	Marionette	INFO	Stopped listening on port 63381
+1594256523594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilet0ipZY"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256525117	Marionette	INFO	Listening on port 63516
+1594256525130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-23?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256536251	Marionette	INFO	Stopped listening on port 63516
+1594256540723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile1v2Hq9"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256542224	Marionette	INFO	Listening on port 63641
+1594256542269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594256584591	Marionette	INFO	Stopped listening on port 63641
+1594256589050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilehu66y8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256590521	Marionette	INFO	Listening on port 63792
+1594256590599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256633722	Marionette	INFO	Stopped listening on port 63792
+1594256638174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile32YkBd"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256639649	Marionette	INFO	Listening on port 63930
+1594256639725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-25?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256682687	Marionette	INFO	Stopped listening on port 63930
+1594256686100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileXjKk4v"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256687563	Marionette	INFO	Listening on port 64066
+1594256687578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-25?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256735041	Marionette	INFO	Stopped listening on port 64066
+1594256739486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile79ECzA"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256741129	Marionette	INFO	Listening on port 64228
+1594256741157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-26?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256783305	Marionette	INFO	Stopped listening on port 64228
+1594256786700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLKI2qR"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256788397	Marionette	INFO	Listening on port 64377
+1594256788497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256831730	Marionette	INFO	Stopped listening on port 64377
+1594256835143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile02kSuo"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256836603	Marionette	INFO	Listening on port 64532
+1594256836633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-27?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594256879214	Marionette	INFO	Stopped listening on port 64532
+1594256883678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileXjjmzA"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256885397	Marionette	INFO	Listening on port 64687
+1594256885427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594256927982	Marionette	INFO	Stopped listening on port 64687
+1594256940402	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile1HrJBo"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256941962	Marionette	INFO	Listening on port 64891
+1594256942054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594256983285	Marionette	INFO	Stopped listening on port 64891
+1594256987744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilesBw7TH"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594256989236	Marionette	INFO	Listening on port 65037
+1594256989283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-28?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257000411	Marionette	INFO	Stopped listening on port 65037
+1594257005815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileuhG2IB"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257007315	Marionette	INFO	Listening on port 65160
+1594257007347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-29?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257018332	Marionette	INFO	Stopped listening on port 65160
+1594257022804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiletO2H7a"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257024298	Marionette	INFO	Listening on port 65285
+1594257024346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-29?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257035033	Marionette	INFO	Stopped listening on port 65285
+1594257039418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileHZYMx9"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257041036	Marionette	INFO	Listening on port 65405
+1594257041062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594257052205	Marionette	INFO	Stopped listening on port 65405
+1594257057700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilekqwG7n"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257059207	Marionette	INFO	Listening on port 65533
+1594257059246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-30?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257070420	Marionette	INFO	Stopped listening on port 65533
+1594257074905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileq3TO3e"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257076460	Marionette	INFO	Listening on port 49275
+1594257076545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-31?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257087256	Marionette	INFO	Stopped listening on port 49275
+1594257094721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilertFtXk"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257096242	Marionette	INFO	Listening on port 49399
+1594257096259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594257107578	Marionette	INFO	Stopped listening on port 49399
+1594257112065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLlruJm"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257113622	Marionette	INFO	Listening on port 49527
+1594257113704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594257155837	Marionette	INFO	Stopped listening on port 49527
+1594257160349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileY63dMf"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257161988	Marionette	INFO	Listening on port 49693
+1594257162038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-32?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257204771	Marionette	INFO	Stopped listening on port 49693
+1594257209240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile4abmmf"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257210734	Marionette	INFO	Listening on port 49839
+1594257210803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-33?years=2018 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257251651	Marionette	INFO	Stopped listening on port 49839
+1594257256108	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile26CkcS"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257257603	Marionette	INFO	Listening on port 49981
+1594257257678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-33?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257300106	Marionette	INFO	Stopped listening on port 49981
+1594257303509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile4MbBsw"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257305003	Marionette	INFO	Listening on port 50129
+1594257305077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594257316442	Marionette	INFO	Stopped listening on port 50129
+1594257320926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileGZ5ojQ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257322556	Marionette	INFO	Listening on port 50260
+1594257322637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594257364799	Marionette	INFO	Stopped listening on port 50260
+1594257368247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilecByi8L"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257369738	Marionette	INFO	Listening on port 50436
+1594257369841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594257380783	Marionette	INFO	Stopped listening on port 50436
+1594257385183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileiIYX6v"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257386673	Marionette	INFO	Listening on port 50555
+1594257386769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/packs?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594257398931	Marionette	INFO	Stopped listening on port 50555
+1594257403389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileVl0q61"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257404931	Marionette	INFO	Listening on port 50687
+1594257404952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594257446692	Marionette	INFO	Stopped listening on port 50687
+1594257451089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileeI4XdU"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257452476	Marionette	INFO	Listening on port 50846
+1594257452563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594257493936	Marionette	INFO	Stopped listening on port 50846
+1594257498376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilegemEWf"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594257499837	Marionette	INFO	Listening on port 50997
+1594257499863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594272769566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileCvTL6s"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594272771857	Marionette	INFO	Listening on port 60538
+1594272771917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594272786286	Marionette	INFO	Stopped listening on port 60538
+1594272790723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileudjIwV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594272792654	Marionette	INFO	Listening on port 60698
+1594272792672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594272834994	Marionette	INFO	Stopped listening on port 60698
+1594272839425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileG1tq3p"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594272841368	Marionette	INFO	Listening on port 60846
+1594272841389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594272883893	Marionette	INFO	Stopped listening on port 60846
+1594272890310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileBXK02z"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594272892169	Marionette	INFO	Listening on port 60997
+1594272892268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-3?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594272933039	Marionette	INFO	Stopped listening on port 60997
+1594272937496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileTMpBCG"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594272939198	Marionette	INFO	Listening on port 61150
+1594272939241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594272981208	Marionette	INFO	Stopped listening on port 61150
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1594272998644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilegCVAp0"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273000388	Marionette	INFO	Listening on port 61300
+1594273000405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273041373	Marionette	INFO	Stopped listening on port 61300
+1594273045817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileJhhmvt"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273047414	Marionette	INFO	Listening on port 61445
+1594273047464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-6?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273089545	Marionette	INFO	Stopped listening on port 61445
+1594273097011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilezoV0Ic"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273098596	Marionette	INFO	Listening on port 61657
+1594273098658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273140452	Marionette	INFO	Stopped listening on port 61657
+1594273144897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiled7PDJK"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273146685	Marionette	INFO	Listening on port 61802
+1594273146739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273188209	Marionette	INFO	Stopped listening on port 61802
+1594273193626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileTMxWPv"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273195384	Marionette	INFO	Listening on port 61944
+1594273195474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-9?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273236518	Marionette	INFO	Stopped listening on port 61944
+1594273240872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilemovjOQ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273242911	Marionette	INFO	Listening on port 62079
+1594273242918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273283549	Marionette	INFO	Stopped listening on port 62079
+1594273288014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile9cWk94"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273289705	Marionette	INFO	Listening on port 62220
+1594273289750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-11?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273332231	Marionette	INFO	Stopped listening on port 62220
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594273336689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileE8UHlX"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273338247	Marionette	INFO	Listening on port 62380
+1594273338321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273379721	Marionette	INFO	Stopped listening on port 62380
+1594273384095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileuSBWZz"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273385687	Marionette	INFO	Listening on port 62524
+1594273385732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-13?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273426690	Marionette	INFO	Stopped listening on port 62524
+1594273431140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiledFQA6N"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273432725	Marionette	INFO	Listening on port 62671
+1594273432775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-14?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273473866	Marionette	INFO	Stopped listening on port 62671
+1594273478253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileVHommY"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273479811	Marionette	INFO	Listening on port 62838
+1594273479900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-15?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273490618	Marionette	INFO	Stopped listening on port 62838
+1594273494993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilesyur5L"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273496558	Marionette	INFO	Listening on port 62959
+1594273496643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273541796	Marionette	INFO	Stopped listening on port 62959
+1594273545202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileJ7j02H"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273546700	Marionette	INFO	Listening on port 63105
+1594273546782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273557903	Marionette	INFO	Stopped listening on port 63105
+1594273562370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilex1TrLJ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273563856	Marionette	INFO	Listening on port 63229
+1594273563934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-18?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273574489	Marionette	INFO	Stopped listening on port 63229
+1594273578951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileZQCQGG"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273580471	Marionette	INFO	Listening on port 63349
+1594273580548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273621464	Marionette	INFO	Stopped listening on port 63349
+1594273625891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileX6puVl"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273627466	Marionette	INFO	Listening on port 63490
+1594273627573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-20?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273639210	Marionette	INFO	Stopped listening on port 63490
+1594273643657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileUD726I"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273645211	Marionette	INFO	Listening on port 63619
+1594273645257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273655849	Marionette	INFO	Stopped listening on port 63619
+1594273660291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile5VXmFR"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273661880	Marionette	INFO	Listening on port 63740
+1594273661967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273673237	Marionette	INFO	Stopped listening on port 63740
+1594273677705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile5QiOAg"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273679256	Marionette	INFO	Listening on port 63869
+1594273679300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-23?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273690565	Marionette	INFO	Stopped listening on port 63869
+1594273694009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilek6yvba"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273695579	Marionette	INFO	Listening on port 63995
+1594273695688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-24?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273738196	Marionette	INFO	Stopped listening on port 63995
+1594273744605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileUNQzoj"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273746386	Marionette	INFO	Listening on port 64129
+1594273746438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-25?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594273788360	Marionette	INFO	Stopped listening on port 64129
+1594273791799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileRxFpxm"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273793571	Marionette	INFO	Listening on port 64281
+1594273793653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273835986	Marionette	INFO	Stopped listening on port 64281
+1594273840427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile1aVTpG"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273841970	Marionette	INFO	Listening on port 64433
+1594273842064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273885105	Marionette	INFO	Stopped listening on port 64433
+1594273889567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilejdtSRA"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273891060	Marionette	INFO	Listening on port 64580
+1594273891106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273903726	Marionette	INFO	Stopped listening on port 64580
+1594273907164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile2fJ86F"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273908652	Marionette	INFO	Listening on port 64711
+1594273908707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273920510	Marionette	INFO	Stopped listening on port 64711
+1594273925983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilelNmros"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273927720	Marionette	INFO	Listening on port 64856
+1594273927727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594273939589	Marionette	INFO	Stopped listening on port 64856
+1594273943952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileEowAfV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273945456	Marionette	INFO	Listening on port 64983
+1594273945485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594273956379	Marionette	INFO	Stopped listening on port 64983
+1594273960754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileYdJQy8"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594273962333	Marionette	INFO	Listening on port 65109
+1594273962395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594274003997	Marionette	INFO	Stopped listening on port 65109
+1594274008425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileSAiUvT"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594274010120	Marionette	INFO	Listening on port 65253
+1594274010166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594274054932	Marionette	INFO	Stopped listening on port 65253
+1594274059361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilebUGcvA"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594274061230	Marionette	INFO	Listening on port 65397
+1594274061329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594274102795	Marionette	INFO	Stopped listening on port 65397
+1594274107206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile4k2hz0"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594274108988	Marionette	INFO	Listening on port 49162
+1594274109056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594274120326	Marionette	INFO	Stopped listening on port 49162
+1594274124771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiletDsttg"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594274126787	Marionette	INFO	Listening on port 49290
+1594274126820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594274168077	Marionette	INFO	Stopped listening on port 49290
+1594274178531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileAKLE0E"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594274180592	Marionette	INFO	Listening on port 49437
+1594274180677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594274222819	Marionette	INFO	Stopped listening on port 49437
+1594306801123	Marionette	INFO	Stopped listening on port 50997
+1594522847479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileUGI3MK"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594522849790	Marionette	INFO	Listening on port 52189
+1594522849881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594522929217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilevldlmV"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594522930959	Marionette	INFO	Listening on port 52407
+1594522930971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594522943398	Marionette	INFO	Stopped listening on port 52407
+1594522947850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile6JMa6U"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594522949628	Marionette	INFO	Listening on port 52557
+1594522949706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594522989693	Marionette	INFO	Stopped listening on port 52557
+1594522993093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilez1d3jk"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594522994907	Marionette	INFO	Listening on port 52701
+1594522994954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523034940	Marionette	INFO	Stopped listening on port 52701
+1594523038348	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileKvyvXr"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523040225	Marionette	INFO	Listening on port 52857
+1594523040313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523087098	Marionette	INFO	Stopped listening on port 52857
+1594523091447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileei6O0P"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523093179	Marionette	INFO	Listening on port 53048
+1594523093200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523133917	Marionette	INFO	Stopped listening on port 53048
+1594523146366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileNZ5j6A"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523148126	Marionette	INFO	Listening on port 53248
+1594523148223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-2?years=2019 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594523188802	Marionette	INFO	Stopped listening on port 53248
+1594523192225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileAFMSEI"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523194043	Marionette	INFO	Listening on port 53402
+1594523194091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523238944	Marionette	INFO	Stopped listening on port 53402
+1594523244309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile9qdPmB"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523246056	Marionette	INFO	Listening on port 53564
+1594523246153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523286991	Marionette	INFO	Stopped listening on port 53564
+1594523290298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilevWW5sn"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523292031	Marionette	INFO	Listening on port 53767
+1594523292066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523331968	Marionette	INFO	Stopped listening on port 53767
+1594523336292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileo6DXVy"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523338120	Marionette	INFO	Listening on port 53909
+1594523338146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-3?years=2020 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594523378088	Marionette	INFO	Stopped listening on port 53909
+1594523382426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileNIhhNg"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523384251	Marionette	INFO	Listening on port 54063
+1594523384283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523424562	Marionette	INFO	Stopped listening on port 54063
+1594523428979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilea2fCGF"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523430850	Marionette	INFO	Listening on port 54219
+1594523430934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523480086	Marionette	INFO	Stopped listening on port 54219
+1594523488514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileo5IhwR"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523490267	Marionette	INFO	Listening on port 54411
+1594523490363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523529769	Marionette	INFO	Stopped listening on port 54411
+1594523533201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile09Lrsf"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523534994	Marionette	INFO	Listening on port 54567
+1594523535063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523576858	Marionette	INFO	Stopped listening on port 54567
+1594523581201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile5fSYVW"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523582878	Marionette	INFO	Listening on port 54733
+1594523582965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523625359	Marionette	INFO	Stopped listening on port 54733
+1594523629799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile36oFtT"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523631567	Marionette	INFO	Listening on port 54887
+1594523631655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-5?years=2020 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594523672098	Marionette	INFO	Stopped listening on port 54887
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594523761173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileESbBVQ"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523762929	Marionette	INFO	Listening on port 55117
+1594523762934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523775354	Marionette	INFO	Stopped listening on port 55117
+1594523799980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilellyUJ2"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523801764	Marionette	INFO	Listening on port 55259
+1594523801846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523813415	Marionette	INFO	Stopped listening on port 55259
+1594523817768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile3mzswu"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523819543	Marionette	INFO	Listening on port 55393
+1594523819623	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594523910748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilepA5Y8C"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523912425	Marionette	INFO	Listening on port 55465
+1594523912499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594523926218	Marionette	INFO	Stopped listening on port 55465
+1594523930561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileh9Y6NO"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523932382	Marionette	INFO	Listening on port 55606
+1594523932404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594523972617	Marionette	INFO	Stopped listening on port 55606
+1594523976056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofiledAxcL7"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594523977989	Marionette	INFO	Listening on port 55773
+1594523978033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://stockx.com/retro-jordans/air-jordan-1?years=2016 line 704 > scriptElement, line 1: ReferenceError: fbq is not defined
+1594524020515	Marionette	INFO	Stopped listening on port 55773
+1594524024852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile4E3IDt"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594524026514	Marionette	INFO	Listening on port 55915
+1594524026605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594524068074	Marionette	INFO	Stopped listening on port 55915
+1594524071382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofileLn3FxK"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594524073089	Marionette	INFO	Listening on port 56058
+1594524073142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594524115894	Marionette	INFO	Stopped listening on port 56058
+1594524119302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofilelj009b"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594524121091	Marionette	INFO	Listening on port 56206
+1594524121145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 220: ReferenceError: PaymentRequest is not defined
+1594524161382	Marionette	INFO	Stopped listening on port 56206
+1594524165733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/__jlbqss2qj1ms1rszp_glyr0000gn/T/rust_mozprofile8YUvjI"
+JavaScript error: facebook.cfg, line 217: ReferenceError: Components is not defined
+1594524167628	Marionette	INFO	Listening on port 56350
+1594524167694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 214: ReferenceError: PaymentRequest is not defined
+1594524209265	Marionette	INFO	Stopped listening on port 56350
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))

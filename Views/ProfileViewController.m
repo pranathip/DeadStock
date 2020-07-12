@@ -76,6 +76,19 @@
     }];
 }
 
+- (IBAction)firstNameEditingEnd:(id)sender {
+    [self refreshView];
+}
+
+- (IBAction)lastNameEditingEnd:(id)sender {
+    [self refreshView];
+}
+
+- (void)refreshView {
+    PFUser *currentUser = [PFUser currentUser];
+    self.nameHeaderLabel.text = [NSString stringWithFormat:@"%@ %@", currentUser[@"firstName"], currentUser[@"lastName"]];
+}
+
 /*
 #pragma mark - Navigation
 
