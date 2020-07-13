@@ -117,8 +117,8 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
   * (Read/GET) Query all information/extended details about the sneaker in question
 
 **Sneaker API (will be used primarily for the wishlist screen, while the scraped StockX data will be used to update the dashboard**
-* Base URL - https://api.thesneakerdatabase.com
+**Base URL - https://api.thesneakerdatabase.com**
 | HTTP Verb | Endpoint | Description | return value |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | `GET` | /v1/sneakers | search for sneakers | returns a list of sneakers |
 | `GET` | /v1/sneakers/{sneakerId} | find sneaker by ID | returns a single sneaker | 
