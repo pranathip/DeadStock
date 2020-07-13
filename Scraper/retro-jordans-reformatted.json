@@ -1,5 +1,5 @@
-{
-    "Jordan 1 Retro Shattered Backboard": {
+[
+    {
         "url": "https://stockx.com/jordan-1-retro-shattered-backboard",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -17,9 +17,10 @@
         "did_price_increase": false,
         "high": "$1,970",
         "low": "$595",
-        "trade_range": "$1,301 - $1,619"
+        "trade_range": "$1,301 - $1,619",
+        "name": "Jordan 1 Retro Shattered Backboard"
     },
-    "Jordan 1 Retro Chicago (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-chicago-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -37,9 +38,10 @@
         "did_price_increase": true,
         "high": "$2,199",
         "low": "$191",
-        "trade_range": "$1,440 - $1,790"
+        "trade_range": "$1,440 - $1,790",
+        "name": "Jordan 1 Retro Chicago (2015)"
     },
-    "Jordan 1 Retro Hare Jordan (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-hare-jordan-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -57,9 +59,10 @@
         "did_price_increase": false,
         "high": "$388",
         "low": "$110",
-        "trade_range": "$249 - $301"
+        "trade_range": "$249 - $301",
+        "name": "Jordan 1 Retro Hare Jordan (2015)"
     },
-    "Jordan 1 Retro 30th Anniversary Laser": {
+    {
         "url": "https://stockx.com/jordan-1-retro-30th-anniversary-laser",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -77,9 +80,10 @@
         "did_price_increase": true,
         "high": "$400",
         "low": "$122",
-        "trade_range": "$230 - $300"
+        "trade_range": "$230 - $300",
+        "name": "Jordan 1 Retro 30th Anniversary Laser"
     },
-    "Jordan 1 Retro Low Bred (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-bred-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -97,9 +101,10 @@
         "did_price_increase": true,
         "high": "$730",
         "low": "$70",
-        "trade_range": "$446 - $554"
+        "trade_range": "$446 - $554",
+        "name": "Jordan 1 Retro Low Bred (2015)"
     },
-    "Jordan 1.5 Retro Bred": {
+    {
         "url": "https://stockx.com/jordan-1pt5-retro-bred",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -117,9 +122,10 @@
         "did_price_increase": false,
         "high": "$475",
         "low": "$133",
-        "trade_range": "$288 - $396"
+        "trade_range": "$288 - $396",
+        "name": "Jordan 1.5 Retro Bred"
     },
-    "Jordan 1.5 Retro Reverse Fragment": {
+    {
         "url": "https://stockx.com/jordan-1pt5-retro-reverse-fragment",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -137,9 +143,10 @@
         "did_price_increase": false,
         "high": "$374",
         "low": "$80",
-        "trade_range": "$110 - $190"
+        "trade_range": "$110 - $190",
+        "name": "Jordan 1.5 Retro Reverse Fragment"
     },
-    "Jordan 1 Retro Low White Varsity Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-white-varsity-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -157,9 +164,10 @@
         "did_price_increase": false,
         "high": "$1,200",
         "low": "$50",
-        "trade_range": "$194 - $406"
+        "trade_range": "$194 - $406",
+        "name": "Jordan 1 Retro Low White Varsity Red"
     },
-    "Jordan 1 Retro Dover Street Market": {
+    {
         "url": "https://stockx.com/jordan-1-retro-dover-street-market",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -177,9 +185,10 @@
         "did_price_increase": false,
         "high": "$362",
         "low": "$155",
-        "trade_range": "$124 - $208"
+        "trade_range": "$124 - $208",
+        "name": "Jordan 1 Retro Dover Street Market"
     },
-    "Jordan 1 Retro UNC": {
+    {
         "url": "https://stockx.com/jordan-1-retro-unc",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -197,9 +206,10 @@
         "did_price_increase": false,
         "high": "$1,031",
         "low": "$230",
-        "trade_range": "$678 - $792"
+        "trade_range": "$678 - $792",
+        "name": "Jordan 1 Retro UNC"
     },
-    "Jordan 1 Retro Pinnacle Baroque Brown": {
+    {
         "url": "https://stockx.com/jordan-1-retro-pinnacle-baroque-brown",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -217,9 +227,10 @@
         "did_price_increase": true,
         "high": "$446",
         "low": "$190",
-        "trade_range": "$314 - $398"
+        "trade_range": "$314 - $398",
+        "name": "Jordan 1 Retro Pinnacle Baroque Brown"
     },
-    "Jordan 1 Retro Low Black Grey (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-black-grey-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -237,9 +248,10 @@
         "did_price_increase": false,
         "high": "$857",
         "low": "$120",
-        "trade_range": "$371 - $519"
+        "trade_range": "$371 - $519",
+        "name": "Jordan 1 Retro Low Black Grey (2015)"
     },
-    "Jordan 1 Retro Chicago 2015 (GS)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-chicago-2015-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -257,9 +269,10 @@
         "did_price_increase": false,
         "high": "$958",
         "low": "$350",
-        "trade_range": "$735 - $863"
+        "trade_range": "$735 - $863",
+        "name": "Jordan 1 Retro Chicago 2015 (GS)"
     },
-    "Jordan 1 Retro LA": {
+    {
         "url": "https://stockx.com/jordan-1-retro-la-134915",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -277,9 +290,10 @@
         "did_price_increase": true,
         "high": "$375",
         "low": "$100",
-        "trade_range": "$237 - $353"
+        "trade_range": "$237 - $353",
+        "name": "Jordan 1 Retro LA"
     },
-    "Jordan 1 Retro Pinnacle White": {
+    {
         "url": "https://stockx.com/jordan-1-retro-pinnacle-white",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -297,9 +311,10 @@
         "did_price_increase": true,
         "high": "$995",
         "low": "$299",
-        "trade_range": "$385 - $661"
+        "trade_range": "$385 - $661",
+        "name": "Jordan 1 Retro Pinnacle White"
     },
-    "Jordan 1 Retro Rare Air Bred": {
+    {
         "url": "https://stockx.com/jordan-1-retro-rare-air",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -317,9 +332,10 @@
         "did_price_increase": true,
         "high": "$250",
         "low": "$50",
-        "trade_range": "$185 - $275"
+        "trade_range": "$185 - $275",
+        "name": "Jordan 1 Retro Rare Air Bred"
     },
-    "Jordan 1 Retro KO Bred (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-ko-bred-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -337,9 +353,10 @@
         "did_price_increase": false,
         "high": "$299",
         "low": "$90",
-        "trade_range": "$61 - $159"
+        "trade_range": "$61 - $159",
+        "name": "Jordan 1 Retro KO Bred (2015)"
     },
-    "Jordan 1 Retro Pinnacle Vachetta Tan": {
+    {
         "url": "https://stockx.com/jordan-1-retro-pinnacle-vachetta-tan",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -357,9 +374,10 @@
         "did_price_increase": true,
         "high": "$550",
         "low": "$253",
-        "trade_range": "$451 - $527"
+        "trade_range": "$451 - $527",
+        "name": "Jordan 1 Retro Pinnacle Vachetta Tan"
     },
-    "Jordan 1 Retro Russell Westbrook PE": {
+    {
         "url": "https://stockx.com/jordan-1-retro-russell-westbrook-pe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -377,9 +395,10 @@
         "did_price_increase": true,
         "high": "$326",
         "low": "$86",
-        "trade_range": "$100 - $220"
+        "trade_range": "$100 - $220",
+        "name": "Jordan 1 Retro Russell Westbrook PE"
     },
-    "Jordan 1 Retro BHM 2015": {
+    {
         "url": "https://stockx.com/jordan-1-retro-bhm-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -397,9 +416,10 @@
         "did_price_increase": true,
         "high": "$209",
         "low": "$50",
-        "trade_range": "$92 - $150"
+        "trade_range": "$92 - $150",
+        "name": "Jordan 1 Retro BHM 2015"
     },
-    "Jordan 1 Retro Rare Air Patch": {
+    {
         "url": "https://stockx.com/jordan-1-retro-rare-air-patch",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -417,9 +437,10 @@
         "did_price_increase": false,
         "high": "$225",
         "low": "$56",
-        "trade_range": "$148 - $223"
+        "trade_range": "$148 - $223",
+        "name": "Jordan 1 Retro Rare Air Patch"
     },
-    "Jordan 1 Retro Mid Hare Jordan 2015 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-hare-air-jordan-2015-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -437,9 +458,10 @@
         "did_price_increase": true,
         "high": "$280",
         "low": "$100",
-        "trade_range": "$237 - $323"
+        "trade_range": "$237 - $323",
+        "name": "Jordan 1 Retro Mid Hare Jordan 2015 (GS)"
     },
-    "Jordan 1 Retro Lola Bunny (GS)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-lola-bunny-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -457,9 +479,10 @@
         "did_price_increase": false,
         "high": "$234",
         "low": "$80",
-        "trade_range": "$119 - $181"
+        "trade_range": "$119 - $181",
+        "name": "Jordan 1 Retro Lola Bunny (GS)"
     },
-    "Jordan 1 Low Bordeaux": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-bordeaux",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -477,9 +500,10 @@
         "did_price_increase": true,
         "high": "$209",
         "low": "$88",
-        "trade_range": "$160 - $240"
+        "trade_range": "$160 - $240",
+        "name": "Jordan 1 Low Bordeaux"
     },
-    "Jordan 1 Retro Low N7": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-n7",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -497,9 +521,10 @@
         "did_price_increase": true,
         "high": "$333",
         "low": "$130",
-        "trade_range": "$280 - $387"
+        "trade_range": "$280 - $387",
+        "name": "Jordan 1 Retro Low N7"
     },
-    "Jordan 1 Mid Lance Mountain Bred (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-lance-mountain-bred-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -517,9 +542,10 @@
         "did_price_increase": true,
         "high": "$145",
         "low": "$60",
-        "trade_range": "$104 - $167"
+        "trade_range": "$104 - $167",
+        "name": "Jordan 1 Mid Lance Mountain Bred (GS)"
     },
-    "Jordan 1 Retro Low Gym Red Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-gym-red-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -537,9 +563,10 @@
         "did_price_increase": true,
         "high": "$1,000",
         "low": "$110",
-        "trade_range": "$710 - $1,290"
+        "trade_range": "$710 - $1,290",
+        "name": "Jordan 1 Retro Low Gym Red Black"
     },
-    "Jordan 1 Mid Holiday (2015)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-holiday-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -557,9 +584,10 @@
         "did_price_increase": true,
         "high": "$176",
         "low": "$89",
-        "trade_range": "$148 - $203"
+        "trade_range": "$148 - $203",
+        "name": "Jordan 1 Mid Holiday (2015)"
     },
-    "Jordan 1 Retro Cyber Monday (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-cyber-monday",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -577,9 +605,10 @@
         "did_price_increase": true,
         "high": "$294",
         "low": "$89",
-        "trade_range": "$228 - $270"
+        "trade_range": "$228 - $270",
+        "name": "Jordan 1 Retro Cyber Monday (2015)"
     },
-    "Jordan 1 Retro Low Royal (2015)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-royal-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -597,9 +626,10 @@
         "did_price_increase": true,
         "high": "$406",
         "low": "$48",
-        "trade_range": "$300 - $360"
+        "trade_range": "$300 - $360",
+        "name": "Jordan 1 Retro Low Royal (2015)"
     },
-    "Jordan 1.5 Retro Chicago (2015)": {
+    {
         "url": "https://stockx.com/jordan-1pt5-retro-chicago-2015",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -617,9 +647,10 @@
         "did_price_increase": false,
         "high": "$698",
         "low": "$160",
-        "trade_range": "$387 - $544"
+        "trade_range": "$387 - $544",
+        "name": "Jordan 1.5 Retro Chicago (2015)"
     },
-    "Jordan 1 Retro UNC (GS)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-unc-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -637,9 +668,10 @@
         "did_price_increase": true,
         "high": "$850",
         "low": "$255",
-        "trade_range": "$365 - $633"
+        "trade_range": "$365 - $633",
+        "name": "Jordan 1 Retro UNC (GS)"
     },
-    "Jordan 1 Retro Pinnacle Black": {
+    {
         "url": "https://stockx.com/jordan-1-retro-pinnacle-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -657,9 +689,10 @@
         "did_price_increase": false,
         "high": "$767",
         "low": "$205",
-        "trade_range": "$363 - $637"
+        "trade_range": "$363 - $637",
+        "name": "Jordan 1 Retro Pinnacle Black"
     },
-    "Jordan 1 Retro Low Shadow (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-shadow-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -677,9 +710,10 @@
         "did_price_increase": true,
         "high": "$200",
         "low": "$70",
-        "trade_range": "$173 - $227"
+        "trade_range": "$173 - $227",
+        "name": "Jordan 1 Retro Low Shadow (GS)"
     },
-    "Jordan 1 Retro Mid Black Red White": {
+    {
         "url": "https://stockx.com/jordan-1-retro-mid-lance-mountain-bred",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -697,9 +731,10 @@
         "did_price_increase": false,
         "high": "$219",
         "low": "$76",
-        "trade_range": "$128 - $204"
+        "trade_range": "$128 - $204",
+        "name": "Jordan 1 Retro Mid Black Red White"
     },
-    "Jordan 1.5 Retro Sand Dune": {
+    {
         "url": "https://stockx.com/jordan-1pt5-retro-sand-dune",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -717,9 +752,10 @@
         "did_price_increase": false,
         "high": "$268",
         "low": "$100",
-        "trade_range": "$67 - $173"
+        "trade_range": "$67 - $173",
+        "name": "Jordan 1.5 Retro Sand Dune"
     },
-    "Jordan 1 Retro Cyber Monday (GS)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-cyber-monday-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -737,9 +773,10 @@
         "did_price_increase": true,
         "high": "$157",
         "low": "$55",
-        "trade_range": "$131 - $165"
+        "trade_range": "$131 - $165",
+        "name": "Jordan 1 Retro Cyber Monday (GS)"
     },
-    "Jordan 1 Retro Low Bred 2015 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-bred-2015-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -757,9 +794,10 @@
         "did_price_increase": false,
         "high": "$309",
         "low": "$45",
-        "trade_range": "$154 - $276"
+        "trade_range": "$154 - $276",
+        "name": "Jordan 1 Retro Low Bred 2015 (GS)"
     },
-    "Jordan 1 Retro Mid Radio Raheem": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-radio-raheem",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -777,9 +815,10 @@
         "did_price_increase": false,
         "high": "$200",
         "low": "$75",
-        "trade_range": "$122 - $178"
+        "trade_range": "$122 - $178",
+        "name": "Jordan 1 Retro Mid Radio Raheem"
     },
-    "Jordan 1.5 Retro Bred (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1pt5-retro-bred-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -797,9 +836,10 @@
         "did_price_increase": true,
         "high": "$205",
         "low": "$50",
-        "trade_range": "$122 - $178"
+        "trade_range": "$122 - $178",
+        "name": "Jordan 1.5 Retro Bred (GS)"
     },
-    "Jordan 1 Retro Bred &quot;Banned&quot; (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-bred-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -817,9 +857,10 @@
         "did_price_increase": true,
         "high": "$1,420",
         "low": "$210",
-        "trade_range": "$742 - $1,054"
+        "trade_range": "$742 - $1,054",
+        "name": "Jordan 1 Retro Bred &quot;Banned&quot; (2016)"
     },
-    "Jordan 1 Retro Top 3": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-top-3",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -837,9 +878,10 @@
         "did_price_increase": false,
         "high": "$1,288",
         "low": "$165",
-        "trade_range": "$444 - $656"
+        "trade_range": "$444 - $656",
+        "name": "Jordan 1 Retro Top 3"
     },
-    "Jordan 1 Retro Reverse Shattered Backboard": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-reverse-shattered-backboard",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -857,9 +899,10 @@
         "did_price_increase": false,
         "high": "$1,568",
         "low": "$300",
-        "trade_range": "$865 - $1,035"
+        "trade_range": "$865 - $1,035",
+        "name": "Jordan 1 Retro Reverse Shattered Backboard"
     },
-    "Jordan 1 Retro Satin &quot;Banned&quot;": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-satin",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -877,9 +920,10 @@
         "did_price_increase": true,
         "high": "$4,299",
         "low": "$1,742",
-        "trade_range": "$3,077 - $4,123"
+        "trade_range": "$3,077 - $4,123",
+        "name": "Jordan 1 Retro Satin &quot;Banned&quot;"
     },
-    "Jordan 1 Retro Bred 2016 &quot;Banned&quot; (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-bred-2016-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -897,9 +941,10 @@
         "did_price_increase": false,
         "high": "$646",
         "low": "$225",
-        "trade_range": "$412 - $428"
+        "trade_range": "$412 - $428",
+        "name": "Jordan 1 Retro Bred 2016 &quot;Banned&quot; (GS)"
     },
-    "Jordan 1 Retro High Yin Yang White (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-yin-yang-white-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -917,9 +962,10 @@
         "did_price_increase": true,
         "high": "$463",
         "low": "$141",
-        "trade_range": "$266 - $412"
+        "trade_range": "$266 - $412",
+        "name": "Jordan 1 Retro High Yin Yang White (GS)"
     },
-    "Jordan 1 Retro David Letterman": {
+    {
         "url": "https://stockx.com/jordan-1-retro-david-letterman",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -937,9 +983,10 @@
         "did_price_increase": true,
         "high": "$250",
         "low": "$85",
-        "trade_range": "$174 - $216"
+        "trade_range": "$174 - $216",
+        "name": "Jordan 1 Retro David Letterman"
     },
-    "Jordan 1 Retro Yin Yang Black": {
+    {
         "url": "https://stockx.com/jordan-1-retro-yin-yang-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -957,9 +1004,10 @@
         "did_price_increase": true,
         "high": "$370",
         "low": "$55",
-        "trade_range": "$185 - $302"
+        "trade_range": "$185 - $302",
+        "name": "Jordan 1 Retro Yin Yang Black"
     },
-    "Jordan 1 Mid Triple Black 2016 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-triple-black-2016-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -977,9 +1025,10 @@
         "did_price_increase": false,
         "high": "$145",
         "low": "$50",
-        "trade_range": "$57 - $83"
+        "trade_range": "$57 - $83",
+        "name": "Jordan 1 Mid Triple Black 2016 (GS)"
     },
-    "Jordan 1 Retro White Elephant Print": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-white-elephant-print",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -997,9 +1046,10 @@
         "did_price_increase": false,
         "high": "$400",
         "low": "$100",
-        "trade_range": "$185 - $315"
+        "trade_range": "$185 - $315",
+        "name": "Jordan 1 Retro White Elephant Print"
     },
-    "Jordan 1 Retro Black Toe (2016)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-black-toe-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1017,9 +1067,10 @@
         "did_price_increase": true,
         "high": "$1,175",
         "low": "$275",
-        "trade_range": "$834 - $949"
+        "trade_range": "$834 - $949",
+        "name": "Jordan 1 Retro Black Toe (2016)"
     },
-    "Jordan 1 Retro Top 3 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-top-3-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1037,9 +1088,10 @@
         "did_price_increase": false,
         "high": "$750",
         "low": "$277",
-        "trade_range": "$401 - $579"
+        "trade_range": "$401 - $579",
+        "name": "Jordan 1 Retro Top 3 (GS)"
     },
-    "Jordan 1 Retro Storm Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-storm-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1057,9 +1109,10 @@
         "did_price_increase": false,
         "high": "$922",
         "low": "$141",
-        "trade_range": "$562 - $710"
+        "trade_range": "$562 - $710",
+        "name": "Jordan 1 Retro Storm Blue"
     },
-    "Jordan 1 Retro Low Chicago (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-chicago-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1077,9 +1130,10 @@
         "did_price_increase": false,
         "high": "$1,100",
         "low": "$185",
-        "trade_range": "$446 - $754"
+        "trade_range": "$446 - $754",
+        "name": "Jordan 1 Retro Low Chicago (2016)"
     },
-    "Jordan 1 Retro Black Toe (2016) (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-black-toe-2016-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1097,9 +1151,10 @@
         "did_price_increase": false,
         "high": "$747",
         "low": "$325",
-        "trade_range": "$560 - $740"
+        "trade_range": "$560 - $740",
+        "name": "Jordan 1 Retro Black Toe (2016) (GS)"
     },
-    "Jordan 1 Retro Metallic Navy 2016 (GS)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-metallic-navy-2016-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1117,9 +1172,10 @@
         "did_price_increase": true,
         "high": "$325",
         "low": "$140",
-        "trade_range": "$266 - $354"
+        "trade_range": "$266 - $354",
+        "name": "Jordan 1 Retro Metallic Navy 2016 (GS)"
     },
-    "Jordan 1 Retro Mid Sequoia": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-sequoia",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1137,9 +1193,10 @@
         "did_price_increase": true,
         "high": "$195",
         "low": "$75",
-        "trade_range": "$102 - $148"
+        "trade_range": "$102 - $148",
+        "name": "Jordan 1 Retro Mid Sequoia"
     },
-    "Jordan 1 Retro All Star (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-all-star-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1157,9 +1214,10 @@
         "did_price_increase": false,
         "high": "$300",
         "low": "$80",
-        "trade_range": "$92 - $168"
+        "trade_range": "$92 - $168",
+        "name": "Jordan 1 Retro All Star (2016)"
     },
-    "Jordan 1 Retro Nouveau Dunk From Above": {
+    {
         "url": "https://stockx.com/air-jordan-retro-1-nouveau-dunk-from-above",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1177,9 +1235,10 @@
         "did_price_increase": true,
         "high": "$325",
         "low": "$110",
-        "trade_range": "$137 - $224"
+        "trade_range": "$137 - $224",
+        "name": "Jordan 1 Retro Nouveau Dunk From Above"
     },
-    "Jordan 1 Retro High Nouveau Dunk From Above": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-nouveau-dunk-from-above",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1197,9 +1256,10 @@
         "did_price_increase": false,
         "high": "$250",
         "low": "$125",
-        "trade_range": "$117 - $186"
+        "trade_range": "$117 - $186",
+        "name": "Jordan 1 Retro High Nouveau Dunk From Above"
     },
-    "Jordan 1 Retro Un-Supreme": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-un-supreme",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1217,9 +1277,10 @@
         "did_price_increase": false,
         "high": "$361",
         "low": "$90",
-        "trade_range": "$130 - $250"
+        "trade_range": "$130 - $250",
+        "name": "Jordan 1 Retro Un-Supreme"
     },
-    "Jordan 1 Retro Low Metallic Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-metallic-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1237,9 +1298,10 @@
         "did_price_increase": false,
         "high": "$665",
         "low": "$41",
-        "trade_range": "$145 - $355"
+        "trade_range": "$145 - $355",
+        "name": "Jordan 1 Retro Low Metallic Blue"
     },
-    "Jordan 1 Retro AJKO Pure Platinum": {
+    {
         "url": "https://stockx.com/jordan-1-retro-ajko-pure-platinum",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1257,9 +1319,10 @@
         "did_price_increase": true,
         "high": "$388",
         "low": "$50",
-        "trade_range": "$129 - $212"
+        "trade_range": "$129 - $212",
+        "name": "Jordan 1 Retro AJKO Pure Platinum"
     },
-    "Jordan 1 Retro Bronze Medal": {
+    {
         "url": "https://stockx.com/jordan-1-retro-bronze-medal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1277,9 +1340,10 @@
         "did_price_increase": false,
         "high": "$250",
         "low": "$40",
-        "trade_range": "-$10 - $90"
+        "trade_range": "-$10 - $90",
+        "name": "Jordan 1 Retro Bronze Medal"
     },
-    "Jordan 1 Retro Low Cyber Monday (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-low-cyber-monday-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1297,9 +1361,10 @@
         "did_price_increase": true,
         "high": "$300",
         "low": "$80",
-        "trade_range": "$189 - $309"
+        "trade_range": "$189 - $309",
+        "name": "Jordan 1 Retro Low Cyber Monday (2016)"
     },
-    "Jordan 1 Retro AJKO Blue Quilted": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-ajko-blue-quilted",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1317,9 +1382,10 @@
         "did_price_increase": false,
         "high": "$140",
         "low": "$57",
-        "trade_range": "$95 - $145"
+        "trade_range": "$95 - $145",
+        "name": "Jordan 1 Retro AJKO Blue Quilted"
     },
-    "Jordan 1 Retro Heiress Night Maroon (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-heiress-night-maroon-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1337,9 +1403,10 @@
         "did_price_increase": false,
         "high": "$550",
         "low": "$150",
-        "trade_range": "$129 - $351"
+        "trade_range": "$129 - $351",
+        "name": "Jordan 1 Retro Heiress Night Maroon (GS)"
     },
-    "Jordan 1 Retro Gold Medal": {
+    {
         "url": "https://stockx.com/jordan-1-retro-gold-medal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1357,9 +1424,10 @@
         "did_price_increase": false,
         "high": "$375",
         "low": "$70",
-        "trade_range": "$178 - $322"
+        "trade_range": "$178 - $322",
+        "name": "Jordan 1 Retro Gold Medal"
     },
-    "Jordan 1 Retro Reverse Shattered Backboard (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-reverse-shattered-backboard-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1377,9 +1445,10 @@
         "did_price_increase": true,
         "high": "$1,000",
         "low": "$479",
-        "trade_range": "$852 - $1,148"
+        "trade_range": "$852 - $1,148",
+        "name": "Jordan 1 Retro Reverse Shattered Backboard (GS)"
     },
-    "Jordan 1 Retro High Black Vivid Pink (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-vivid-pink-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1397,9 +1466,10 @@
         "did_price_increase": true,
         "high": "$200",
         "low": "$46",
-        "trade_range": "$45 - $117"
+        "trade_range": "$45 - $117",
+        "name": "Jordan 1 Retro High Black Vivid Pink (GS)"
     },
-    "Jordan 1 Low Rush Pink (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-rush-pink-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1417,9 +1487,10 @@
         "did_price_increase": true,
         "high": "$295",
         "low": "$82",
-        "trade_range": "$120 - $238"
+        "trade_range": "$120 - $238",
+        "name": "Jordan 1 Low Rush Pink (GS)"
     },
-    "Jordan 1 Retro High Hyper Jade Metallic Silver (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-hyper-jade-metallic-silver-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1437,9 +1508,10 @@
         "did_price_increase": false,
         "high": "$200",
         "low": "$77",
-        "trade_range": "$71 - $147"
+        "trade_range": "$71 - $147",
+        "name": "Jordan 1 Retro High Hyper Jade Metallic Silver (GS)"
     },
-    "Jordan 1 Retro Yin Yang White": {
+    {
         "url": "https://stockx.com/jordan-1-retro-yin-yang-white",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1457,9 +1529,10 @@
         "did_price_increase": false,
         "high": "$798",
         "low": "$55",
-        "trade_range": "-$54 - $176"
+        "trade_range": "-$54 - $176",
+        "name": "Jordan 1 Retro Yin Yang White"
     },
-    "Jordan 1 Retro Metallic Navy (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-metallic-navy-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1477,9 +1550,10 @@
         "did_price_increase": true,
         "high": "$443",
         "low": "$120",
-        "trade_range": "$288 - $372"
+        "trade_range": "$288 - $372",
+        "name": "Jordan 1 Retro Metallic Navy (2016)"
     },
-    "Jordan 1 Retro Deep Royal": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-deep-royal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1497,9 +1571,10 @@
         "did_price_increase": false,
         "high": "$420",
         "low": "$70",
-        "trade_range": "$24 - $176"
+        "trade_range": "$24 - $176",
+        "name": "Jordan 1 Retro Deep Royal"
     },
-    "Jordan 1 Retro Grove Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-grove-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1517,9 +1592,10 @@
         "did_price_increase": true,
         "high": "$588",
         "low": "$60",
-        "trade_range": "$161 - $399"
+        "trade_range": "$161 - $399",
+        "name": "Jordan 1 Retro Grove Green"
     },
-    "Jordan 1 Retro Low Pinnacle Metallic Silver": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-pinncacle-metallic-silver",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1537,9 +1613,10 @@
         "did_price_increase": true,
         "high": "$275",
         "low": "$40",
-        "trade_range": "$108 - $164"
+        "trade_range": "$108 - $164",
+        "name": "Jordan 1 Retro Low Pinnacle Metallic Silver"
     },
-    "Jordan 1 Retro Ultra High Space Jam": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-ultra-space-jam",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1557,9 +1634,10 @@
         "did_price_increase": true,
         "high": "$230",
         "low": "$80",
-        "trade_range": "$137 - $213"
+        "trade_range": "$137 - $213",
+        "name": "Jordan 1 Retro Ultra High Space Jam"
     },
-    "Jordan 1 Retro KO Sail (2016)": {
+    {
         "url": "https://stockx.com/jordan-1-retro-ko-sail-2016",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1577,9 +1655,10 @@
         "did_price_increase": true,
         "high": "$254",
         "low": "$55",
-        "trade_range": "$152 - $248"
+        "trade_range": "$152 - $248",
+        "name": "Jordan 1 Retro KO Sail (2016)"
     },
-    "Jordan 1 Retro Black Patent": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-black-patent",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1597,9 +1676,10 @@
         "did_price_increase": false,
         "high": "$528",
         "low": "$50",
-        "trade_range": "$170 - $368"
+        "trade_range": "$170 - $368",
+        "name": "Jordan 1 Retro Black Patent"
     },
-    "Jordan 1 Retro Royal (2017)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-black-blue-2017",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1617,9 +1697,10 @@
         "did_price_increase": true,
         "high": "$607",
         "low": "$200",
-        "trade_range": "$442 - $505"
+        "trade_range": "$442 - $505",
+        "name": "Jordan 1 Retro Royal (2017)"
     },
-    "Jordan 1 Retro High Off-White Chicago": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-off-white-chicago",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1637,9 +1718,10 @@
         "did_price_increase": true,
         "high": "$9,950",
         "low": "$2,391",
-        "trade_range": "$3,762 - $4,438"
+        "trade_range": "$3,762 - $4,438",
+        "name": "Jordan 1 Retro High Off-White Chicago"
     },
-    "Jordan 1 Retro High Gatorade Blue Lagoon": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-gatorade-blue-lagoon",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1657,9 +1739,10 @@
         "did_price_increase": true,
         "high": "$588",
         "low": "$90",
-        "trade_range": "$293 - $371"
+        "trade_range": "$293 - $371",
+        "name": "Jordan 1 Retro High Gatorade Blue Lagoon"
     },
-    "Jordan 1 Retro High Gatorade Orange Peel": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-gatorade-orange-peel",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1677,9 +1760,10 @@
         "did_price_increase": false,
         "high": "$350",
         "low": "$90",
-        "trade_range": "$181 - $239"
+        "trade_range": "$181 - $239",
+        "name": "Jordan 1 Retro High Gatorade Orange Peel"
     },
-    "Jordan 1 Retro High Gatorade Cyber": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-gatorade-cyber",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1697,9 +1781,10 @@
         "did_price_increase": false,
         "high": "$476",
         "low": "$107",
-        "trade_range": "$246 - $352"
+        "trade_range": "$246 - $352",
+        "name": "Jordan 1 Retro High Gatorade Cyber"
     },
-    "Jordan 1 Retro High Gold Top 3": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-gold-top-3",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1717,9 +1802,10 @@
         "did_price_increase": false,
         "high": "$1,049",
         "low": "$337",
-        "trade_range": "$488 - $800"
+        "trade_range": "$488 - $800",
+        "name": "Jordan 1 Retro High Gold Top 3"
     },
-    "Jordan 1 Retro High Camo 3M Shadow": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-camo-3m-shadow",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1737,9 +1823,10 @@
         "did_price_increase": false,
         "high": "$899",
         "low": "$120",
-        "trade_range": "$131 - $279"
+        "trade_range": "$131 - $279",
+        "name": "Jordan 1 Retro High Camo 3M Shadow"
     },
-    "Jordan 1 Retro Satin &quot;Royal&quot;": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-black-blue-satin-2017",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1757,9 +1844,10 @@
         "did_price_increase": false,
         "high": "$3,000",
         "low": "$1,051",
-        "trade_range": "$1,489 - $2,311"
+        "trade_range": "$1,489 - $2,311",
+        "name": "Jordan 1 Retro Satin &quot;Royal&quot;"
     },
-    "Jordan 1 Retro High Camo 3M Bred": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-camo-3m-bred",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1777,9 +1865,10 @@
         "did_price_increase": true,
         "high": "$569",
         "low": "$240",
-        "trade_range": "$314 - $484"
+        "trade_range": "$314 - $484",
+        "name": "Jordan 1 Retro High Camo 3M Bred"
     },
-    "Jordan 1 Retro High OG Spike Lee Fort Greene": {
+    {
         "url": "https://stockx.com/jordan-jumpoff-spike-lee-fort-greene",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1797,9 +1886,10 @@
         "did_price_increase": true,
         "high": "$5,500",
         "low": "$2,000",
-        "trade_range": "$3,850 - $7,150"
+        "trade_range": "$3,850 - $7,150",
+        "name": "Jordan 1 Retro High OG Spike Lee Fort Greene"
     },
-    "Jordan 1 Retro High Wheat": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-wheat",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1817,9 +1907,10 @@
         "did_price_increase": false,
         "high": "$299",
         "low": "$70",
-        "trade_range": "$106 - $170"
+        "trade_range": "$106 - $170",
+        "name": "Jordan 1 Retro High Wheat"
     },
-    "Jordan 1 Retro High Flyknit Royal": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-flyknit-royal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1837,9 +1928,10 @@
         "did_price_increase": false,
         "high": "$228",
         "low": "$50",
-        "trade_range": "$97 - $143"
+        "trade_range": "$97 - $143",
+        "name": "Jordan 1 Retro High Flyknit Royal"
     },
-    "Jordan 1 Retro Royal 2017 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-og-royal-2017-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1857,9 +1949,10 @@
         "did_price_increase": false,
         "high": "$450",
         "low": "$185",
-        "trade_range": "$296 - $364"
+        "trade_range": "$296 - $364",
+        "name": "Jordan 1 Retro Royal 2017 (GS)"
     },
-    "Jordan 1 Retro Metallic Red (2017)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-og-metallic-red-2017",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1877,9 +1970,10 @@
         "did_price_increase": true,
         "high": "$491",
         "low": "$70",
-        "trade_range": "$345 - $405"
+        "trade_range": "$345 - $405",
+        "name": "Jordan 1 Retro Metallic Red (2017)"
     },
-    "Jordan 1 Retro Mid New Love (2017)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-new-love-2017",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1897,9 +1991,10 @@
         "did_price_increase": true,
         "high": "$496",
         "low": "$130",
-        "trade_range": "$319 - $447"
+        "trade_range": "$319 - $447",
+        "name": "Jordan 1 Retro Mid New Love (2017)"
     },
-    "Jordan 1 Retro All Star 2017 &quot;Chameleon&quot;": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-all-star-2017",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1917,9 +2012,10 @@
         "did_price_increase": false,
         "high": "$636",
         "low": "$175",
-        "trade_range": "$200 - $390"
+        "trade_range": "$200 - $390",
+        "name": "Jordan 1 Retro All Star 2017 &quot;Chameleon&quot;"
     },
-    "Jordan 1 Retro Golf Cleat White Metallic": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-golf-white-metallic",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1937,9 +2033,10 @@
         "did_price_increase": false,
         "high": "$1,720",
         "low": "$295",
-        "trade_range": "-$8 - $808"
+        "trade_range": "-$8 - $808",
+        "name": "Jordan 1 Retro Golf Cleat White Metallic"
     },
-    "Jordan 1 Retro High Flyknit Bred": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-flyknit-bred",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1957,9 +2054,10 @@
         "did_price_increase": true,
         "high": "$271",
         "low": "$100",
-        "trade_range": "$193 - $248"
+        "trade_range": "$193 - $248",
+        "name": "Jordan 1 Retro High Flyknit Bred"
     },
-    "Jordan 1 Retro High Gatorade Rush Violet": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-gatorade-rush-violet",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1977,9 +2075,10 @@
         "did_price_increase": true,
         "high": "$331",
         "low": "$60",
-        "trade_range": "$235 - $301"
+        "trade_range": "$235 - $301",
+        "name": "Jordan 1 Retro High Gatorade Rush Violet"
     },
-    "Jordan 1 Retro White Perforated": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-white-perforated",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -1997,9 +2096,10 @@
         "did_price_increase": true,
         "high": "$300",
         "low": "$100",
-        "trade_range": "$192 - $298"
+        "trade_range": "$192 - $298",
+        "name": "Jordan 1 Retro White Perforated"
     },
-    "Jordan 1 Retro Serena Williams Hyper Pink (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-serena-williams-hyper-pink-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2017,9 +2117,10 @@
         "did_price_increase": false,
         "high": "$440",
         "low": "$80",
-        "trade_range": "$49 - $245"
+        "trade_range": "$49 - $245",
+        "name": "Jordan 1 Retro Serena Williams Hyper Pink (GS)"
     },
-    "Jordan 1 Retro High Los Primeros": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-los-primeros",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2037,9 +2138,10 @@
         "did_price_increase": false,
         "high": "$888",
         "low": "$195",
-        "trade_range": "$284 - $396"
+        "trade_range": "$284 - $396",
+        "name": "Jordan 1 Retro High Los Primeros"
     },
-    "Jordan 1 Retro Blue Suede": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-blue-suede",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2057,9 +2159,10 @@
         "did_price_increase": false,
         "high": "$350",
         "low": "$80",
-        "trade_range": "$141 - $259"
+        "trade_range": "$141 - $259",
+        "name": "Jordan 1 Retro Blue Suede"
     },
-    "Jordan 1 Retro High Wings": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-wings",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2077,9 +2180,10 @@
         "did_price_increase": true,
         "high": "$584",
         "low": "$150",
-        "trade_range": "$238 - $332"
+        "trade_range": "$238 - $332",
+        "name": "Jordan 1 Retro High Wings"
     },
-    "Jordan 1 Retro High OG Sail": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-essentials-sail",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2097,9 +2201,10 @@
         "did_price_increase": true,
         "high": "$563",
         "low": "$131",
-        "trade_range": "$284 - $388"
+        "trade_range": "$284 - $388",
+        "name": "Jordan 1 Retro High OG Sail"
     },
-    "Jordan 1 Retro High RE2PECT (Derek Jeter)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-re2pect-derek-jeter",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2117,9 +2222,10 @@
         "did_price_increase": true,
         "high": "$675",
         "low": "$128",
-        "trade_range": "$343 - $457"
+        "trade_range": "$343 - $457",
+        "name": "Jordan 1 Retro High RE2PECT (Derek Jeter)"
     },
-    "Jordan 1 Retro High OG Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-essentials-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2137,9 +2243,10 @@
         "did_price_increase": true,
         "high": "$432",
         "low": "$100",
-        "trade_range": "$206 - $296"
+        "trade_range": "$206 - $296",
+        "name": "Jordan 1 Retro High OG Black"
     },
-    "Jordan 1 Retro Low OG Black Vachetta": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-og-black-vachetta",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2157,9 +2264,10 @@
         "did_price_increase": false,
         "high": "$300",
         "low": "$60",
-        "trade_range": "$230 - $350"
+        "trade_range": "$230 - $350",
+        "name": "Jordan 1 Retro Low OG Black Vachetta"
     },
-    "Jordan 1 Retro High OG Sail (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-essentials-sail-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2177,9 +2285,10 @@
         "did_price_increase": false,
         "high": "$437",
         "low": "$93",
-        "trade_range": "$240 - $360"
+        "trade_range": "$240 - $360",
+        "name": "Jordan 1 Retro High OG Sail (GS)"
     },
-    "Jordan 1 Retro Mid Team Red Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-team-red-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2197,9 +2306,10 @@
         "did_price_increase": false,
         "high": "$280",
         "low": "$77",
-        "trade_range": "$155 - $235"
+        "trade_range": "$155 - $235",
+        "name": "Jordan 1 Retro Mid Team Red Black"
     },
-    "Jordan 1 Retro Red Suede": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-red-suede",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2217,9 +2327,10 @@
         "did_price_increase": false,
         "high": "$488",
         "low": "$111",
-        "trade_range": "$135 - $262"
+        "trade_range": "$135 - $262",
+        "name": "Jordan 1 Retro Red Suede"
     },
-    "Jordan 1 Retro Golf Cleat Chicago": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-golf-chicago",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2237,9 +2348,10 @@
         "did_price_increase": false,
         "high": "$2,299",
         "low": "$610",
-        "trade_range": "$1,172 - $1,427"
+        "trade_range": "$1,172 - $1,427",
+        "name": "Jordan 1 Retro Golf Cleat Chicago"
     },
-    "Jordan 1 Retro Mid Obsidian University Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-obsidian-university-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2257,9 +2369,10 @@
         "did_price_increase": false,
         "high": "$250",
         "low": "$84",
-        "trade_range": "$120 - $190"
+        "trade_range": "$120 - $190",
+        "name": "Jordan 1 Retro Mid Obsidian University Blue"
     },
-    "Jordan 1 Retro Mid Armory Navy": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-mid-armory-navy",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2277,9 +2390,10 @@
         "did_price_increase": true,
         "high": "$301",
         "low": "$75",
-        "trade_range": "$61 - $199"
+        "trade_range": "$61 - $199",
+        "name": "Jordan 1 Retro Mid Armory Navy"
     },
-    "Jordan 1 Retro High Decon Ice Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-decon-ice-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2297,9 +2411,10 @@
         "did_price_increase": true,
         "high": "$124",
         "low": "$45",
-        "trade_range": "$76 - $104"
+        "trade_range": "$76 - $104",
+        "name": "Jordan 1 Retro High Decon Ice Blue"
     },
-    "Jordan 1 Mid Black White Gold (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-black-white-gold-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2317,9 +2432,10 @@
         "did_price_increase": true,
         "high": "$125",
         "low": "$45",
-        "trade_range": "$65 - $95"
+        "trade_range": "$65 - $95",
+        "name": "Jordan 1 Mid Black White Gold (GS)"
     },
-    "Jordan 1 Retro Rare Air Cool Grey": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-rare-air-cool-grey",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2337,9 +2453,10 @@
         "did_price_increase": true,
         "high": "$286",
         "low": "$96",
-        "trade_range": "$142 - $236"
+        "trade_range": "$142 - $236",
+        "name": "Jordan 1 Retro Rare Air Cool Grey"
     },
-    "Jordan 1 Retro Metallic Red 2017 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-og-metallic-red-2017-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2357,9 +2474,10 @@
         "did_price_increase": false,
         "high": "$420",
         "low": "$179",
-        "trade_range": "$270 - $370"
+        "trade_range": "$270 - $370",
+        "name": "Jordan 1 Retro Metallic Red 2017 (GS)"
     },
-    "Jordan 1 Retro High Decon Sheen": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-decon-sheen",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2377,9 +2495,10 @@
         "did_price_increase": true,
         "high": "$123",
         "low": "$38",
-        "trade_range": "$101 - $145"
+        "trade_range": "$101 - $145",
+        "name": "Jordan 1 Retro High Decon Sheen"
     },
-    "Jordan 1 Mid Golden Harvest Sail (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-golden-harvest-sail-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2397,9 +2516,10 @@
         "did_price_increase": true,
         "high": "$120",
         "low": "$25",
-        "trade_range": "$90 - $150"
+        "trade_range": "$90 - $150",
+        "name": "Jordan 1 Mid Golden Harvest Sail (GS)"
     },
-    "Jordan 1 Retro High Off-White University Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-off-white-university-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2417,9 +2537,10 @@
         "did_price_increase": false,
         "high": "$2,793",
         "low": "$815",
-        "trade_range": "$1,640 - $2,022"
+        "trade_range": "$1,640 - $2,022",
+        "name": "Jordan 1 Retro High Off-White University Blue"
     },
-    "Jordan 1 Retro High Shadow (2018)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-shadow-2018",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2437,9 +2558,10 @@
         "did_price_increase": false,
         "high": "$690",
         "low": "$101",
-        "trade_range": "$402 - $468"
+        "trade_range": "$402 - $468",
+        "name": "Jordan 1 Retro High Shadow (2018)"
     },
-    "Jordan 1 Retro High Spider-Man Origin Story": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-chicago-crystal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2457,9 +2579,10 @@
         "did_price_increase": false,
         "high": "$895",
         "low": "$211",
-        "trade_range": "$492 - $626"
+        "trade_range": "$492 - $626",
+        "name": "Jordan 1 Retro High Spider-Man Origin Story"
     },
-    "Jordan 1 Retro High Rookie of the Year": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-rookie-of-the-year",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2477,10 +2600,10 @@
         "did_price_increase": false,
         "high": "$703",
         "low": "$100",
-        "trade_range": "$445 - $493"
+        "trade_range": "$445 - $493",
+        "name": "Jordan 1 Retro High Rookie of the Year"
     },
-    
-    "Jordan 1 Retro High Bred Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-bred-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2498,9 +2621,10 @@
         "did_price_increase": true,
         "high": "$1,000",
         "low": "$125",
-        "trade_range": "$479 - $671"
+        "trade_range": "$479 - $671",
+        "name": "Jordan 1 Retro High Bred Toe"
     },
-    "Jordan 1 Retro High Homage To Home (Non-numbered)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-homage-to-home-nn",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2518,9 +2642,10 @@
         "did_price_increase": true,
         "high": "$762",
         "low": "$152",
-        "trade_range": "$435 - $545"
+        "trade_range": "$435 - $545",
+        "name": "Jordan 1 Retro High Homage To Home (Non-numbered)"
     },
-    "Jordan 1 Retro High Sports Illustrated (A Star Is Born)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-sports-illustrated",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2538,9 +2663,10 @@
         "did_price_increase": false,
         "high": "$314",
         "low": "$65",
-        "trade_range": "$163 - $217"
+        "trade_range": "$163 - $217",
+        "name": "Jordan 1 Retro High Sports Illustrated (A Star Is Born)"
     },
-    "Jordan 1 Retro High NRG Patent Gold Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-patent-gold-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2558,9 +2684,10 @@
         "did_price_increase": true,
         "high": "$780",
         "low": "$210",
-        "trade_range": "$398 - $554"
+        "trade_range": "$398 - $554",
+        "name": "Jordan 1 Retro High NRG Patent Gold Toe"
     },
-    "Jordan 1 Retro High Union Los Angeles Black Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-union-los-angeles-black-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2578,9 +2705,10 @@
         "did_price_increase": false,
         "high": "$2,300",
         "low": "$800",
-        "trade_range": "$1,570 - $1,830"
+        "trade_range": "$1,570 - $1,830",
+        "name": "Jordan 1 Retro High Union Los Angeles Black Toe"
     },
-    "Jordan 1 Retro High Hyper Royal": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-hyper-royal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2598,9 +2726,10 @@
         "did_price_increase": false,
         "high": "$331",
         "low": "$70",
-        "trade_range": "$184 - $226"
+        "trade_range": "$184 - $226",
+        "name": "Jordan 1 Retro High Hyper Royal"
     },
-    "Jordan 1 Retro High Union Los Angeles Blue Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-union-los-angeles-blue-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2618,9 +2747,10 @@
         "did_price_increase": true,
         "high": "$3,000",
         "low": "$888",
-        "trade_range": "$1,605 - $2,279"
+        "trade_range": "$1,605 - $2,279",
+        "name": "Jordan 1 Retro High Union Los Angeles Blue Toe"
     },
-    "Jordan 1 Retro High Game Royal": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-alternate-black-royal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2638,9 +2768,10 @@
         "did_price_increase": false,
         "high": "$1,050",
         "low": "$110",
-        "trade_range": "$331 - $429"
+        "trade_range": "$331 - $429",
+        "name": "Jordan 1 Retro High Game Royal"
     },
-    "Jordan 1 Retro High Yellow Ochre": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-yellow-ochre",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2658,9 +2789,10 @@
         "did_price_increase": false,
         "high": "$750",
         "low": "$240",
-        "trade_range": "$437 - $503"
+        "trade_range": "$437 - $503",
+        "name": "Jordan 1 Retro High Yellow Ochre"
     },
-    "Jordan 1 Mid Alternate Think 16": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-alternate-think-16",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2678,9 +2810,10 @@
         "did_price_increase": false,
         "high": "$492",
         "low": "$60",
-        "trade_range": "$66 - $154"
+        "trade_range": "$66 - $154",
+        "name": "Jordan 1 Mid Alternate Think 16"
     },
-    "Jordan 1 Retro High &quot;Not for Resale&quot; Varsity Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-no-ls-varsity-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2698,9 +2831,10 @@
         "did_price_increase": true,
         "high": "$1,500",
         "low": "$293",
-        "trade_range": "$813 - $947"
+        "trade_range": "$813 - $947",
+        "name": "Jordan 1 Retro High &quot;Not for Resale&quot; Varsity Red"
     },
-    "Jordan 1 Retro High Clay Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-clay-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2718,9 +2852,10 @@
         "did_price_increase": false,
         "high": "$844",
         "low": "$110",
-        "trade_range": "$195 - $335"
+        "trade_range": "$195 - $335",
+        "name": "Jordan 1 Retro High Clay Green"
     },
-    "Jordan 1 Retro High Blue Moon": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-blue-moon",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2738,9 +2873,10 @@
         "did_price_increase": true,
         "high": "$787",
         "low": "$105",
-        "trade_range": "$663 - $880"
+        "trade_range": "$663 - $880",
+        "name": "Jordan 1 Retro High Blue Moon"
     },
-    "Jordan 1 Retro High Nigel Sylvester": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-nigel-sylvester",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2758,9 +2894,10 @@
         "did_price_increase": false,
         "high": "$662",
         "low": "$231",
-        "trade_range": "$485 - $525"
+        "trade_range": "$485 - $525",
+        "name": "Jordan 1 Retro High Nigel Sylvester"
     },
-    "Jordan 1 Mid Pine Green (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-pine-green-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2778,9 +2915,10 @@
         "did_price_increase": true,
         "high": "$500",
         "low": "$135",
-        "trade_range": "$314 - $454"
+        "trade_range": "$314 - $454",
+        "name": "Jordan 1 Mid Pine Green (GS)"
     },
-    "Jordan 1 Retro High Track Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-6-rings",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2798,9 +2936,10 @@
         "did_price_increase": true,
         "high": "$721",
         "low": "$215",
-        "trade_range": "$341 - $459"
+        "trade_range": "$341 - $459",
+        "name": "Jordan 1 Retro High Track Red"
     },
-    "Jordan 1 Retro High Satin Shattered Backboard (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-satin-shattered-backboard-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2818,9 +2957,10 @@
         "did_price_increase": false,
         "high": "$1,300",
         "low": "$400",
-        "trade_range": "$530 - $648"
+        "trade_range": "$530 - $648",
+        "name": "Jordan 1 Retro High Satin Shattered Backboard (W)"
     },
-    "Jordan 1 Retro High Homage To Home Chicago (Numbered)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-homage-to-home",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2838,9 +2978,10 @@
         "did_price_increase": true,
         "high": "$1,400",
         "low": "$359",
-        "trade_range": "$806 - $1,144"
+        "trade_range": "$806 - $1,144",
+        "name": "Jordan 1 Retro High Homage To Home Chicago (Numbered)"
     },
-    "Jordan 1 Retro High Guava Ice": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-guava-ice",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2858,9 +2999,10 @@
         "did_price_increase": false,
         "high": "$550",
         "low": "$50",
-        "trade_range": "$102 - $172"
+        "trade_range": "$102 - $172",
+        "name": "Jordan 1 Retro High Guava Ice"
     },
-    "Jordan 1 Retro High Pine Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-pine-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2878,9 +3020,10 @@
         "did_price_increase": false,
         "high": "$780",
         "low": "$150",
-        "trade_range": "$347 - $451"
+        "trade_range": "$347 - $451",
+        "name": "Jordan 1 Retro High Pine Green"
     },
-    "Jordan 1 Mid Reverse Bred": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-reverse-bred",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2898,9 +3041,10 @@
         "did_price_increase": true,
         "high": "$270",
         "low": "$80",
-        "trade_range": "$156 - $186"
+        "trade_range": "$156 - $186",
+        "name": "Jordan 1 Mid Reverse Bred"
     },
-    "Jordan 1 Retro High Spider-Man Origin Story (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-chicago-crystal-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2918,9 +3062,10 @@
         "did_price_increase": false,
         "high": "$535",
         "low": "$219",
-        "trade_range": "$308 - $372"
+        "trade_range": "$308 - $372",
+        "name": "Jordan 1 Retro High Spider-Man Origin Story (GS)"
     },
-    "Jordan 1 Retro High Aleali May Court Lux (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-aleali-may-court-luxe-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2938,9 +3083,10 @@
         "did_price_increase": false,
         "high": "$380",
         "low": "$130",
-        "trade_range": "$227 - $307"
+        "trade_range": "$227 - $307",
+        "name": "Jordan 1 Retro High Aleali May Court Lux (W)"
     },
-    "Jordan 1 Mid Triple Black (2018)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-triple-black-2018",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2958,9 +3104,10 @@
         "did_price_increase": true,
         "high": "$199",
         "low": "$46",
-        "trade_range": "$53 - $109"
+        "trade_range": "$53 - $109",
+        "name": "Jordan 1 Mid Triple Black (2018)"
     },
-    "Jordan 1 Retro High Paris Saint Germain": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-paris-saint-germain",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2978,9 +3125,10 @@
         "did_price_increase": false,
         "high": "$260",
         "low": "$90",
-        "trade_range": "$170 - $211"
+        "trade_range": "$170 - $211",
+        "name": "Jordan 1 Retro High Paris Saint Germain"
     },
-    "Jordan 1 Retro High Off-White White": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-off-white-white",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -2998,9 +3146,10 @@
         "did_price_increase": true,
         "high": "$5,600",
         "low": "$1,500",
-        "trade_range": "$3,286 - $4,018"
+        "trade_range": "$3,286 - $4,018",
+        "name": "Jordan 1 Retro High Off-White White"
     },
-    "Jordan 1 Retro High Court Purple": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-court-purple",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3018,9 +3167,10 @@
         "did_price_increase": true,
         "high": "$763",
         "low": "$195",
-        "trade_range": "$351 - $489"
+        "trade_range": "$351 - $489",
+        "name": "Jordan 1 Retro High Court Purple"
     },
-    "Jordan 1 Mid Pine Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-pine-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3038,9 +3188,10 @@
         "did_price_increase": false,
         "high": "$629",
         "low": "$75",
-        "trade_range": "$128 - $272"
+        "trade_range": "$128 - $272",
+        "name": "Jordan 1 Mid Pine Green"
     },
-    "Jordan 1 Mid Triple White (2018)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-triple-white-2018",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3058,9 +3209,10 @@
         "did_price_increase": true,
         "high": "$195",
         "low": "$50",
-        "trade_range": "$105 - $173"
+        "trade_range": "$105 - $173",
+        "name": "Jordan 1 Mid Triple White (2018)"
     },
-    "Jordan 1 Retro High Bred Toe (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-bred-toe-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3078,9 +3230,10 @@
         "did_price_increase": true,
         "high": "$697",
         "low": "$300",
-        "trade_range": "$618 - $712"
+        "trade_range": "$618 - $712",
+        "name": "Jordan 1 Retro High Bred Toe (GS)"
     },
-    "Jordan 1 Mid White Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-white-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3098,9 +3251,10 @@
         "did_price_increase": false,
         "high": "$552",
         "low": "$63",
-        "trade_range": "$147 - $323"
+        "trade_range": "$147 - $323",
+        "name": "Jordan 1 Mid White Black"
     },
-    "Jordan 1 Retro High Shadow 2018 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-shadow-2018-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3118,9 +3272,10 @@
         "did_price_increase": false,
         "high": "$577",
         "low": "$186",
-        "trade_range": "$324 - $412"
+        "trade_range": "$324 - $412",
+        "name": "Jordan 1 Retro High Shadow 2018 (GS)"
     },
-    "Jordan 1 Retro High Olive Canvas": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-olive-canvas",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3138,9 +3293,10 @@
         "did_price_increase": true,
         "high": "$324",
         "low": "$80",
-        "trade_range": "$199 - $239"
+        "trade_range": "$199 - $239",
+        "name": "Jordan 1 Retro High Olive Canvas"
     },
-    "Jordan 1 Retro High Hyper Royal (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-hyper-royal-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3158,9 +3314,10 @@
         "did_price_increase": true,
         "high": "$199",
         "low": "$45",
-        "trade_range": "$170 - $228"
+        "trade_range": "$170 - $228",
+        "name": "Jordan 1 Retro High Hyper Royal (GS)"
     },
-    "Jordan 1 Rebel XX Concord (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-rebel-xx-concord-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3178,9 +3335,10 @@
         "did_price_increase": false,
         "high": "$348",
         "low": "$75",
-        "trade_range": "$125 - $245"
+        "trade_range": "$125 - $245",
+        "name": "Jordan 1 Rebel XX Concord (W)"
     },
-    "Jordan 1 Retro High Dip-Toe Black (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-dip-toe-black-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3198,9 +3356,10 @@
         "did_price_increase": true,
         "high": "$160",
         "low": "$40",
-        "trade_range": "$94 - $146"
+        "trade_range": "$94 - $146",
+        "name": "Jordan 1 Retro High Dip-Toe Black (W)"
     },
-    "Jordan 1 Retro High Fearless UNC Chicago": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-fearless-unc-chicago",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3218,9 +3377,10 @@
         "did_price_increase": true,
         "high": "$800",
         "low": "$130",
-        "trade_range": "$419 - $541"
+        "trade_range": "$419 - $541",
+        "name": "Jordan 1 Retro High Fearless UNC Chicago"
     },
-    "Jordan 1 Retro High Shattered Backboard 3.0": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-shattered-backboard-3",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3238,9 +3398,10 @@
         "did_price_increase": true,
         "high": "$850",
         "low": "$118",
-        "trade_range": "$357 - $391"
+        "trade_range": "$357 - $391",
+        "name": "Jordan 1 Retro High Shattered Backboard 3.0"
     },
-    "Jordan 1 Retro High Bloodline": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-bloodline",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3258,9 +3419,10 @@
         "did_price_increase": true,
         "high": "$451",
         "low": "$100",
-        "trade_range": "$231 - $317"
+        "trade_range": "$231 - $317",
+        "name": "Jordan 1 Retro High Bloodline"
     },
-    "Jordan 1 Retro High Obsidian UNC": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-unc-leather",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3278,9 +3440,10 @@
         "did_price_increase": true,
         "high": "$693",
         "low": "--",
-        "trade_range": "$365 - $480"
+        "trade_range": "$365 - $480",
+        "name": "Jordan 1 Retro High Obsidian UNC"
     },
-    "Jordan 1 Retro High Travis Scott": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-travis-scott",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3298,9 +3461,10 @@
         "did_price_increase": false,
         "high": "$3,750",
         "low": "$628",
-        "trade_range": "$1,052 - $1,448"
+        "trade_range": "$1,052 - $1,448",
+        "name": "Jordan 1 Retro High Travis Scott"
     },
-    "Jordan 1 Retro High Satin Black Toe (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-satin-black-toe-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3318,9 +3482,10 @@
         "did_price_increase": false,
         "high": "$1,230",
         "low": "$190",
-        "trade_range": "$384 - $440"
+        "trade_range": "$384 - $440",
+        "name": "Jordan 1 Retro High Satin Black Toe (W)"
     },
-    "Jordan 1 Retro High UNC Patent (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-unc-patent-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3338,9 +3503,10 @@
         "did_price_increase": false,
         "high": "$837",
         "low": "$241",
-        "trade_range": "$437 - $513"
+        "trade_range": "$437 - $513",
+        "name": "Jordan 1 Retro High UNC Patent (W)"
     },
-    "Jordan 1 Retro High First Class Flight": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-first-class-flight",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3358,9 +3524,10 @@
         "did_price_increase": true,
         "high": "$1,100",
         "low": "$50",
-        "trade_range": "$257 - $343"
+        "trade_range": "$257 - $343",
+        "name": "Jordan 1 Retro High First Class Flight"
     },
-    "Jordan 1 Retro High Turbo Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-turbo-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3378,9 +3545,10 @@
         "did_price_increase": false,
         "high": "$769",
         "low": "$141",
-        "trade_range": "$403 - $461"
+        "trade_range": "$403 - $461",
+        "name": "Jordan 1 Retro High Turbo Green"
     },
-    "Jordan 1 Retro High Zoom Fearless": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-fearless-zoom",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3398,9 +3566,10 @@
         "did_price_increase": true,
         "high": "$350",
         "low": "$100",
-        "trade_range": "$191 - $226"
+        "trade_range": "$191 - $226",
+        "name": "Jordan 1 Retro High Zoom Fearless"
     },
-    "Jordan 1 Retro High Defiant White Black Gym Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-defiant-white-black-gym-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3418,9 +3587,10 @@
         "did_price_increase": false,
         "high": "$390",
         "low": "$70",
-        "trade_range": "$102 - $210"
+        "trade_range": "$102 - $210",
+        "name": "Jordan 1 Retro High Defiant White Black Gym Red"
     },
-    "Jordan 1 Mid SE Fearless Blue the Great": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-fearless-blue-the-great",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3438,9 +3608,10 @@
         "did_price_increase": true,
         "high": "$1,100",
         "low": "$111",
-        "trade_range": "$240 - $280"
+        "trade_range": "$240 - $280",
+        "name": "Jordan 1 Mid SE Fearless Blue the Great"
     },
-    "Jordan 1 Retro High Black Crimson Tint": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-hyper-pink",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3458,9 +3629,10 @@
         "did_price_increase": false,
         "high": "$452",
         "low": "$66",
-        "trade_range": "$273 - $303"
+        "trade_range": "$273 - $303",
+        "name": "Jordan 1 Retro High Black Crimson Tint"
     },
-    "Jordan 1 Retro High Twist (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-white-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3478,9 +3650,10 @@
         "did_price_increase": false,
         "high": "$920",
         "low": "$152",
-        "trade_range": "$524 - $612"
+        "trade_range": "$524 - $612",
+        "name": "Jordan 1 Retro High Twist (W)"
     },
-    "Jordan 1 Retro Low OG SP Travis Scott": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-travis-scott",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3498,9 +3671,10 @@
         "did_price_increase": false,
         "high": "$2,766",
         "low": "$442",
-        "trade_range": "$695 - $809"
+        "trade_range": "$695 - $809",
+        "name": "Jordan 1 Retro Low OG SP Travis Scott"
     },
-    "Jordan 1 Retro High Neutral Grey Hyper Crimson": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-neutral-grey-hyper-crimson",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3518,9 +3692,10 @@
         "did_price_increase": true,
         "high": "$646",
         "low": "$74",
-        "trade_range": "$272 - $324"
+        "trade_range": "$272 - $324",
+        "name": "Jordan 1 Retro High Neutral Grey Hyper Crimson"
     },
-    "Jordan 1 Low SB UNC": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-sb-unc",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3538,9 +3713,10 @@
         "did_price_increase": false,
         "high": "$551",
         "low": "$140",
-        "trade_range": "$346 - $404"
+        "trade_range": "$346 - $404",
+        "name": "Jordan 1 Low SB UNC"
     },
-    "Jordan 1 Retro High Turbo Green (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-turbo-green-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3558,9 +3734,10 @@
         "did_price_increase": false,
         "high": "$649",
         "low": "$141",
-        "trade_range": "$399 - $471"
+        "trade_range": "$399 - $471",
+        "name": "Jordan 1 Retro High Turbo Green (GS)"
     },
-    "Jordan 1 Low Gold Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-gold-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3578,9 +3755,10 @@
         "did_price_increase": false,
         "high": "$258",
         "low": "$45",
-        "trade_range": "$131 - $167"
+        "trade_range": "$131 - $167",
+        "name": "Jordan 1 Low Gold Toe"
     },
-    "Jordan 1 Mid SE Fearless Maison Chateau Rouge": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-fearless-maison-chateau-rouge",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3598,9 +3776,10 @@
         "did_price_increase": true,
         "high": "$759",
         "low": "$145",
-        "trade_range": "$447 - $565"
+        "trade_range": "$447 - $565",
+        "name": "Jordan 1 Mid SE Fearless Maison Chateau Rouge"
     },
-    "Jordan 1 Mid SE Fearless Edison Chen CLOT": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-fearless-edison-chen",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3618,9 +3797,10 @@
         "did_price_increase": false,
         "high": "$1,026",
         "low": "$217",
-        "trade_range": "$246 - $356"
+        "trade_range": "$246 - $356",
+        "name": "Jordan 1 Mid SE Fearless Edison Chen CLOT"
     },
-    "Jordan 1 Retro High OG Defiant Couture": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-og-defiant-couture",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3638,9 +3818,10 @@
         "did_price_increase": false,
         "high": "$246",
         "low": "$70",
-        "trade_range": "$149 - $181"
+        "trade_range": "$149 - $181",
+        "name": "Jordan 1 Retro High OG Defiant Couture"
     },
-    "Jordan 1 Retro High Phantom Gym Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-phantom-gym-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3658,9 +3839,10 @@
         "did_price_increase": false,
         "high": "$564",
         "low": "$70",
-        "trade_range": "$186 - $294"
+        "trade_range": "$186 - $294",
+        "name": "Jordan 1 Retro High Phantom Gym Red"
     },
-    "Jordan 1 Low Black Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-black-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3678,9 +3860,10 @@
         "did_price_increase": false,
         "high": "$349",
         "low": "$69",
-        "trade_range": "$218 - $258"
+        "trade_range": "$218 - $258",
+        "name": "Jordan 1 Low Black Toe"
     },
-    "Jordan 1 Retro High Black Mushroom (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-mushroom-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3698,9 +3881,10 @@
         "did_price_increase": true,
         "high": "$542",
         "low": "$148",
-        "trade_range": "$337 - $415"
+        "trade_range": "$337 - $415",
+        "name": "Jordan 1 Retro High Black Mushroom (W)"
     },
-    "Jordan 1 Mid Patent Black White Gold": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-patent-black-white-gold",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3718,9 +3902,10 @@
         "did_price_increase": false,
         "high": "$425",
         "low": "$85",
-        "trade_range": "$145 - $245"
+        "trade_range": "$145 - $245",
+        "name": "Jordan 1 Mid Patent Black White Gold"
     },
-    "Jordan 1 Low Sail University Gold Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-sail-university-gold-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3738,9 +3923,10 @@
         "did_price_increase": true,
         "high": "$350",
         "low": "$60",
-        "trade_range": "$176 - $274"
+        "trade_range": "$176 - $274",
+        "name": "Jordan 1 Low Sail University Gold Black"
     },
-    "Jordan 1 Mid White Black Teal Tint (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-white-black-teal-tint-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3758,9 +3944,10 @@
         "did_price_increase": true,
         "high": "$369",
         "low": "$94",
-        "trade_range": "$236 - $330"
+        "trade_range": "$236 - $330",
+        "name": "Jordan 1 Mid White Black Teal Tint (GS)"
     },
-    "Jordan 1 Low SB QS Lance Mountain Desert Ore": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-sb-desert-ore",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3778,9 +3965,10 @@
         "did_price_increase": true,
         "high": "$316",
         "low": "$86",
-        "trade_range": "$177 - $213"
+        "trade_range": "$177 - $213",
+        "name": "Jordan 1 Low SB QS Lance Mountain Desert Ore"
     },
-    "Jordan 1 Retro Low Slip Chicago (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-low-slip-chicago-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3798,9 +3986,10 @@
         "did_price_increase": false,
         "high": "$378",
         "low": "$55",
-        "trade_range": "$102 - $188"
+        "trade_range": "$102 - $188",
+        "name": "Jordan 1 Retro Low Slip Chicago (W)"
     },
-    "Jordan 1 Low SB Midnight Navy": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-sb-vast-grey",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3818,9 +4007,10 @@
         "did_price_increase": true,
         "high": "$903",
         "low": "$116",
-        "trade_range": "$328 - $472"
+        "trade_range": "$328 - $472",
+        "name": "Jordan 1 Low SB Midnight Navy"
     },
-    "Jordan 1 Mid Fearless Facetasm": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-facetasm",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3838,9 +4028,10 @@
         "did_price_increase": false,
         "high": "$1,500",
         "low": "$160",
-        "trade_range": "$252 - $326"
+        "trade_range": "$252 - $326",
+        "name": "Jordan 1 Mid Fearless Facetasm"
     },
-    "Jordan 1 Mid Patent Black White Gold (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-patent-black-white-gold-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3858,9 +4049,10 @@
         "did_price_increase": false,
         "high": "$313",
         "low": "$100",
-        "trade_range": "$222 - $255"
+        "trade_range": "$222 - $255",
+        "name": "Jordan 1 Mid Patent Black White Gold (GS)"
     },
-    "Jordan 1 Mid SE Lakers": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-lakers",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3878,9 +4070,10 @@
         "did_price_increase": true,
         "high": "$461",
         "low": "$75",
-        "trade_range": "$330 - $470"
+        "trade_range": "$330 - $470",
+        "name": "Jordan 1 Mid SE Lakers"
     },
-    "Jordan 1 Mid Green Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-green-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3898,9 +4091,10 @@
         "did_price_increase": false,
         "high": "$285",
         "low": "$55",
-        "trade_range": "$121 - $161"
+        "trade_range": "$121 - $161",
+        "name": "Jordan 1 Mid Green Toe"
     },
-    "Jordan 1 Mid Green Toe (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-green-toe-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3918,9 +4112,10 @@
         "did_price_increase": true,
         "high": "$178",
         "low": "$60",
-        "trade_range": "$104 - $136"
+        "trade_range": "$104 - $136",
+        "name": "Jordan 1 Mid Green Toe (GS)"
     },
-    "Jordan 1 Mid Iridescent Reflective White (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-iridescent-reflective-white-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3938,9 +4133,10 @@
         "did_price_increase": true,
         "high": "$370",
         "low": "$89",
-        "trade_range": "$258 - $342"
+        "trade_range": "$258 - $342",
+        "name": "Jordan 1 Mid Iridescent Reflective White (W)"
     },
-    "Jordan 1 Retro High Shattered Backboard 3.0 (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-shattered-backboard-3-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3958,9 +4154,10 @@
         "did_price_increase": false,
         "high": "$432",
         "low": "$135",
-        "trade_range": "$346 - $398"
+        "trade_range": "$346 - $398",
+        "name": "Jordan 1 Retro High Shattered Backboard 3.0 (GS)"
     },
-    "Jordan 1 Retro High Black Gym Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-gym-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3978,9 +4175,10 @@
         "did_price_increase": false,
         "high": "$390",
         "low": "$57",
-        "trade_range": "$132 - $208"
+        "trade_range": "$132 - $208",
+        "name": "Jordan 1 Retro High Black Gym Red"
     },
-    "Jordan 1 Mid Shattered Backboard": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-shattered-backboard",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -3998,9 +4196,10 @@
         "did_price_increase": false,
         "high": "$336",
         "low": "$50",
-        "trade_range": "$167 - $203"
+        "trade_range": "$167 - $203",
+        "name": "Jordan 1 Mid Shattered Backboard"
     },
-    "Jordan 1 Retro High Light Smoke Grey": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-light-smoke-grey",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4018,9 +4217,10 @@
         "did_price_increase": true,
         "high": "$456",
         "low": "$230",
-        "trade_range": "$271 - $287"
+        "trade_range": "$271 - $287",
+        "name": "Jordan 1 Retro High Light Smoke Grey"
     },
-    "Jordan 1 Mid Chicago Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-chicago-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4038,9 +4238,10 @@
         "did_price_increase": false,
         "high": "$413",
         "low": "$95",
-        "trade_range": "$143 - $157"
+        "trade_range": "$143 - $157",
+        "name": "Jordan 1 Mid Chicago Toe"
     },
-    "Jordan 1 Mid Light Smoke Grey": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-light-smoke-grey",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4058,9 +4259,10 @@
         "did_price_increase": false,
         "high": "$563",
         "low": "$89",
-        "trade_range": "$98 - $162"
+        "trade_range": "$98 - $162",
+        "name": "Jordan 1 Mid Light Smoke Grey"
     },
-    "Jordan 1 Retro High Royal Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-game-royal",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4078,9 +4280,10 @@
         "did_price_increase": false,
         "high": "$567",
         "low": "$162",
-        "trade_range": "$246 - $318"
+        "trade_range": "$246 - $318",
+        "name": "Jordan 1 Retro High Royal Toe"
     },
-    "Jordan 1 Retro High Tie Dye (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-tie-dye-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4098,9 +4301,10 @@
         "did_price_increase": true,
         "high": "$580",
         "low": "$215",
-        "trade_range": "$237 - $275"
+        "trade_range": "$237 - $275",
+        "name": "Jordan 1 Retro High Tie Dye (W)"
     },
-    "Jordan 1 Retro High Pine Green Black": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-pine-green-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4118,9 +4322,10 @@
         "did_price_increase": false,
         "high": "$400",
         "low": "$81",
-        "trade_range": "$218 - $252"
+        "trade_range": "$218 - $252",
+        "name": "Jordan 1 Retro High Pine Green Black"
     },
-    "Jordan 1 Retro High Court Purple White": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-court-purple-white",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4138,9 +4343,10 @@
         "did_price_increase": true,
         "high": "$495",
         "low": "$150",
-        "trade_range": "$271 - $279"
+        "trade_range": "$271 - $279",
+        "name": "Jordan 1 Retro High Court Purple White"
     },
-    "Jordan 1 Retro High NC to Chi Leather (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-unc-chicago-leather-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4158,9 +4364,10 @@
         "did_price_increase": false,
         "high": "$500",
         "low": "$135",
-        "trade_range": "$207 - $241"
+        "trade_range": "$207 - $241",
+        "name": "Jordan 1 Retro High NC to Chi Leather (W)"
     },
-    "Jordan 1 Mid SE Multi-Color (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-multi-color-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4178,9 +4385,10 @@
         "did_price_increase": true,
         "high": "$254",
         "low": "$90",
-        "trade_range": "$178 - $202"
+        "trade_range": "$178 - $202",
+        "name": "Jordan 1 Mid SE Multi-Color (W)"
     },
-    "Jordan 1 Retro High Zoom White Racer Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-zoom-white-racer-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4198,9 +4406,10 @@
         "did_price_increase": false,
         "high": "$1,462",
         "low": "$125",
-        "trade_range": "$221 - $360"
+        "trade_range": "$221 - $360",
+        "name": "Jordan 1 Retro High Zoom White Racer Blue"
     },
-    "Jordan 1 Retro High Black Satin Gym Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-gym-red-black",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4218,9 +4427,10 @@
         "did_price_increase": true,
         "high": "$347",
         "low": "$80",
-        "trade_range": "$118 - $140"
+        "trade_range": "$118 - $140",
+        "name": "Jordan 1 Retro High Black Satin Gym Red"
     },
-    "Jordan 1 Retro High 85 Varsity Red": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-85-varsity-red",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4238,9 +4448,10 @@
         "did_price_increase": false,
         "high": "$1,625",
         "low": "$401",
-        "trade_range": "$565 - $679"
+        "trade_range": "$565 - $679",
+        "name": "Jordan 1 Retro High 85 Varsity Red"
     },
-    "Jordan 1 Retro High New Beginnings": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-new-beginnings-pack",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4258,9 +4469,10 @@
         "did_price_increase": false,
         "high": "$1,300",
         "low": "$800",
-        "trade_range": "$721 - $1,039"
+        "trade_range": "$721 - $1,039",
+        "name": "Jordan 1 Retro High New Beginnings"
     },
-    "Jordan 1 Retro High Light Smoke Grey (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-light-smoke-grey-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4278,9 +4490,10 @@
         "did_price_increase": true,
         "high": "$324",
         "low": "$190",
-        "trade_range": "$239 - $261"
+        "trade_range": "$239 - $261",
+        "name": "Jordan 1 Retro High Light Smoke Grey (GS)"
     },
-    "Jordan 1 Mid Chicago Black Toe (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-chicago-black-toe-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4298,9 +4511,10 @@
         "did_price_increase": true,
         "high": "$219",
         "low": "$80",
-        "trade_range": "$117 - $127"
+        "trade_range": "$117 - $127",
+        "name": "Jordan 1 Mid Chicago Black Toe (GS)"
     },
-    "Jordan 1 Mid Light Smoke Grey (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-light-smoke-grey-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4318,9 +4532,10 @@
         "did_price_increase": true,
         "high": "$271",
         "low": "$109",
-        "trade_range": "$183 - $210"
+        "trade_range": "$183 - $210",
+        "name": "Jordan 1 Mid Light Smoke Grey (GS)"
     },
-    "Jordan 1 Retro High Royal Toe (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-black-game-royal-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4338,9 +4553,10 @@
         "did_price_increase": true,
         "high": "$380",
         "low": "$191",
-        "trade_range": "$236 - $264"
+        "trade_range": "$236 - $264",
+        "name": "Jordan 1 Retro High Royal Toe (GS)"
     },
-    "Jordan 1 Low Shadow": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-shadow",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4358,9 +4574,10 @@
         "did_price_increase": false,
         "high": "$350",
         "low": "$72",
-        "trade_range": "$73 - $101"
+        "trade_range": "$73 - $101",
+        "name": "Jordan 1 Low Shadow"
     },
-    "Jordan 1 Mid Pink Quartz (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-pink-quartz-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4378,9 +4595,10 @@
         "did_price_increase": true,
         "high": "$221",
         "low": "$80",
-        "trade_range": "$146 - $172"
+        "trade_range": "$146 - $172",
+        "name": "Jordan 1 Mid Pink Quartz (GS)"
     },
-    "Jordan 1 Low UNC (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-unc-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4398,9 +4616,10 @@
         "did_price_increase": false,
         "high": "$336",
         "low": "$110",
-        "trade_range": "$138 - $191"
+        "trade_range": "$138 - $191",
+        "name": "Jordan 1 Low UNC (W)"
     },
-    "Jordan 1 Low Gym Red White": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-gym-red-white",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4418,9 +4637,10 @@
         "did_price_increase": true,
         "high": "$250",
         "low": "$72",
-        "trade_range": "$117 - $133"
+        "trade_range": "$117 - $133",
+        "name": "Jordan 1 Low Gym Red White"
     },
-    "Jordan 1 Retro High Pine Green Black (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-pine-green-black-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4438,9 +4658,10 @@
         "did_price_increase": true,
         "high": "$293",
         "low": "$111",
-        "trade_range": "$214 - $262"
+        "trade_range": "$214 - $262",
+        "name": "Jordan 1 Retro High Pine Green Black (GS)"
     },
-    "Jordan 1 Low Gym Red White (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-gym-red-white-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4458,9 +4679,10 @@
         "did_price_increase": true,
         "high": "$300",
         "low": "$64",
-        "trade_range": "$123 - $133"
+        "trade_range": "$123 - $133",
+        "name": "Jordan 1 Low Gym Red White (GS)"
     },
-    "Jordan 1 Mid UNC (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-unc-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4478,9 +4700,10 @@
         "did_price_increase": true,
         "high": "$320",
         "low": "$86",
-        "trade_range": "$173 - $225"
+        "trade_range": "$173 - $225",
+        "name": "Jordan 1 Mid UNC (W)"
     },
-    "Jordan 1 Retro High Tie Dye (PS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-tie-dye-ps",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4498,9 +4721,10 @@
         "did_price_increase": false,
         "high": "$217",
         "low": "$50",
-        "trade_range": "$78 - $94"
+        "trade_range": "$78 - $94",
+        "name": "Jordan 1 Retro High Tie Dye (PS)"
     },
-    "Jordan 1 Mid Incredible Hulk (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-incredible-hulk-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4518,9 +4742,10 @@
         "did_price_increase": true,
         "high": "$199",
         "low": "$60",
-        "trade_range": "$93 - $107"
+        "trade_range": "$93 - $107",
+        "name": "Jordan 1 Mid Incredible Hulk (GS)"
     },
-    "Jordan 1 Retro High Court Purple White (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-court-purple-white-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4538,9 +4763,10 @@
         "did_price_increase": true,
         "high": "$359",
         "low": "$140",
-        "trade_range": "$276 - $312"
+        "trade_range": "$276 - $312",
+        "name": "Jordan 1 Retro High Court Purple White (GS)"
     },
-    "Jordan 1 Retro High Tie Dye (TD)": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-tie-dye-td",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4558,9 +4784,10 @@
         "did_price_increase": true,
         "high": "$186",
         "low": "$55",
-        "trade_range": "$69 - $73"
+        "trade_range": "$69 - $73",
+        "name": "Jordan 1 Retro High Tie Dye (TD)"
     },
-    "Jordan 1 Low Nothing But Net": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-nothing-but-net",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4578,9 +4805,10 @@
         "did_price_increase": true,
         "high": "$199",
         "low": "$100",
-        "trade_range": "$122 - $134"
+        "trade_range": "$122 - $134",
+        "name": "Jordan 1 Low Nothing But Net"
     },
-    "Jordan 1 Mid Royal (2020)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-royal-2019",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4598,9 +4826,10 @@
         "did_price_increase": false,
         "high": "$211",
         "low": "$66",
-        "trade_range": "$118 - $145"
+        "trade_range": "$118 - $145",
+        "name": "Jordan 1 Mid Royal (2020)"
     },
-    "Jordan 1 Low Pine Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-pine-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4618,9 +4847,10 @@
         "did_price_increase": false,
         "high": "$390",
         "low": "$55",
-        "trade_range": "$83 - $141"
+        "trade_range": "$83 - $141",
+        "name": "Jordan 1 Low Pine Green"
     },
-    "Jordan 1 Mid SE P(HER)SPECTIVE (W)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-se-pherspective-w",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4638,9 +4868,10 @@
         "did_price_increase": false,
         "high": "$300",
         "low": "$110",
-        "trade_range": "$113 - $155"
+        "trade_range": "$113 - $155",
+        "name": "Jordan 1 Mid SE P(HER)SPECTIVE (W)"
     },
-    "Jordan 1 Low Pine Green (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-pine-green-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4658,9 +4889,10 @@
         "did_price_increase": true,
         "high": "$190",
         "low": "$60",
-        "trade_range": "$103 - $109"
+        "trade_range": "$103 - $109",
+        "name": "Jordan 1 Low Pine Green (GS)"
     },
-    "Jordan 1 Mid Pregame Pack Mindfulness Luka Doncic": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-nike-hoops",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4678,9 +4910,10 @@
         "did_price_increase": true,
         "high": "$380",
         "low": "$120",
-        "trade_range": "$138 - $162"
+        "trade_range": "$138 - $162",
+        "name": "Jordan 1 Mid Pregame Pack Mindfulness Luka Doncic"
     },
-    "Jordan 1 Mid Bred Toe": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-bred-toe",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4698,9 +4931,10 @@
         "did_price_increase": false,
         "high": "$214",
         "low": "$65",
-        "trade_range": "$64 - $121"
+        "trade_range": "$64 - $121",
+        "name": "Jordan 1 Mid Bred Toe"
     },
-    "Jordan 1 Retro High Dior": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-dior",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4718,9 +4952,10 @@
         "did_price_increase": true,
         "high": "$15,995",
         "low": "$6,552",
-        "trade_range": "$13,988 - $15,012"
+        "trade_range": "$13,988 - $15,012",
+        "name": "Jordan 1 Retro High Dior"
     },
-    "Jordan 1 Retro High Zoom Black Green": {
+    {
         "url": "https://stockx.com/air-jordan-1-retro-high-zoom-black-green",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4738,9 +4973,10 @@
         "did_price_increase": true,
         "high": "$464",
         "low": "$176",
-        "trade_range": "$225 - $235"
+        "trade_range": "$225 - $235",
+        "name": "Jordan 1 Retro High Zoom Black Green"
     },
-    "Jordan 1 Mid Light Smoke Grey (PS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-light-smoke-grey-ps",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4758,9 +4994,10 @@
         "did_price_increase": true,
         "high": "$136",
         "low": "$50",
-        "trade_range": "$76 - $100"
+        "trade_range": "$76 - $100",
+        "name": "Jordan 1 Mid Light Smoke Grey (PS)"
     },
-    "Jordan 1 Low Laser Blue": {
+    {
         "url": "https://stockx.com/air-jordan-1-low-laser-blue",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4778,9 +5015,10 @@
         "did_price_increase": false,
         "high": "$200",
         "low": "$65",
-        "trade_range": "$73 - $107"
+        "trade_range": "$73 - $107",
+        "name": "Jordan 1 Low Laser Blue"
     },
-    "Jordan 1 Mid White Pink Green Soar (GS)": {
+    {
         "url": "https://stockx.com/air-jordan-1-mid-white-pink-green-soar-gs",
         "brand": "retro-jordans",
         "type": "air jordan 1",
@@ -4798,6 +5036,7 @@
         "did_price_increase": false,
         "high": "$187",
         "low": "$71",
-        "trade_range": "$92 - $124"
+        "trade_range": "$92 - $124",
+        "name": "Jordan 1 Mid White Pink Green Soar (GS)"
     }
-}
+]

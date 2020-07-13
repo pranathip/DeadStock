@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:retro-jordans.json">
+   </FileRef>
+   <FileRef
       location = "group:DeadStock.xcodeproj">
    </FileRef>
    <FileRef

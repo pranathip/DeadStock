@@ -8,6 +8,7 @@
 
 #import "StocksViewController.h"
 #import "SneakerCell.h"
+#import "NilCell.h"
 
 @interface StocksViewController () <UICollectionViewDataSource, UICollectionViewDelegate>
 
@@ -24,7 +25,7 @@
     self.collectionView.dataSource = self;
     self.collectionView.delegate = self;
     
-    self.sneakers = [NSArray arrayWithObjects: @"sneaker 1", @"sneaker 2", @"sneaker 3", @"sneaker 4", @"sneaker 5", @"sneaker 6", nil];
+    self.sneakers = [NSArray arrayWithObjects: @"nil", nil];
     
     // Configuring size of CollectionView
     UICollectionViewFlowLayout *layout = (UICollectionViewFlowLayout *)self.collectionView.collectionViewLayout;
@@ -34,26 +35,47 @@
     CGFloat itemWidth = (self.collectionView.frame.size.width - (layout.minimumInteritemSpacing + 28)* (postersPerLine - 1)) / postersPerLine;
     CGFloat itemHeight = itemWidth;
     layout.itemSize = CGSizeMake(itemWidth, itemHeight);
+    
+    // Date
+    NSDateFormatter *dateFormatter=[[NSDateFormatter alloc] init];
+    [dateFormatter setDateFormat:@"MMMM dd"];
+    self.dateLabel.text = [dateFormatter stringFromDate:[NSDate date]];
 }
 
-/*
+
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
+    UICollectionViewCell *tappedCell = sender;
+    if ([tappedCell isKindOfClass:[NilCell class]]) {
+        [self performSegueWithIdentifier:@"searchSegue" sender:nil];
+    }
+    
 }
-*/
+
 
 - (nonnull __kindof UICollectionViewCell *)collectionView:(nonnull UICollectionView *)collectionView cellForItemAtIndexPath:(nonnull NSIndexPath *)indexPath {
-    SneakerCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"SneakerCell" forIndexPath:indexPath];
     
-    // Cell formatting
-    cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-    cell.layer.borderWidth = 1;
-    cell.layer.cornerRadius = 4;
-    return cell;
+    if ([self.sneakers[indexPath.row] isEqual:@"nil"]) {
+        NilCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"NilCell" forIndexPath:indexPath];
+        // Cell formatting
+        cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+        cell.layer.borderWidth = 1;
+        cell.layer.cornerRadius = 4;
+        return cell;
+    }
+    else {
+        SneakerCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"SneakerCell" forIndexPath:indexPath];
+        // Cell formatting
+        cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+        cell.layer.borderWidth = 1;
+        cell.layer.cornerRadius = 4;
+        return cell;
+    }
+
 }
 
 - (NSInteger)collectionView:(nonnull UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {

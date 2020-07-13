@@ -8,6 +8,7 @@
 
 #import "LogInViewController.h"
 @import Parse;
+@import MBProgressHUD;
 
 @interface LogInViewController ()
 
@@ -29,7 +30,7 @@
 - (IBAction)didTapLoginButton:(id)sender {
     NSString *username = self.usernameTextField.text;
     NSString *password = self.passwordTextField.text;
-    
+    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     [PFUser logInWithUsernameInBackground:username password:password block:^(PFUser * user, NSError *  error) {
         if (error != nil) {
             NSLog(@"User log in failed: %@", error.localizedDescription);
@@ -49,6 +50,7 @@
             NSLog(@"User logged in successfully");
             
             // display view controller that needs to shown after successful login
+            [MBProgressHUD hideHUDForView:self.view animated:YES];
             [self performSegueWithIdentifier:@"loginSegue" sender:nil];
         }
     }];

@@ -9,6 +9,7 @@ target 'DeadStock' do
   pod 'AFNetworking'
   pod 'Parse'
   pod 'Parse/UI'
+  pod 'MBProgressHUD'
 
   target 'DeadStockTests' do
     inherit! :search_paths
