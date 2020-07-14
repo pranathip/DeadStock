@@ -20,9 +20,8 @@
     // Do any additional setup after loading the view.
     
     // Profile picture styling
-    self.profilePictureView.layer.cornerRadius = 31;
-    [self.profilePictureView.layer setBorderColor: [[UIColor lightGrayColor] CGColor]];
-    [self.profilePictureView.layer setBorderWidth: 1.5];
+    self.profilePictureView.layer.cornerRadius = 32;
+    self.smallWhiteView.layer.cornerRadius = 10;
     
     // Set up animation labels
     self.animatedEmailLabel.alpha = 0;

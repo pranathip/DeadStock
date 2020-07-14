@@ -23,6 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UILabel *animatedLastNameLabel;
 @property (weak, nonatomic) IBOutlet UILabel *animatedUsernameLabel;
 @property (weak, nonatomic) IBOutlet UILabel *animatedPasswordLabel;
+@property (weak, nonatomic) IBOutlet UIView *smallWhiteView;
 @end
 
 NS_ASSUME_NONNULL_END

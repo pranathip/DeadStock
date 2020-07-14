@@ -9,6 +9,7 @@
 #import "StocksViewController.h"
 #import "SneakerCell.h"
 #import "NilCell.h"
+@import Parse;
 
 @interface StocksViewController () <UICollectionViewDataSource, UICollectionViewDelegate>
 
@@ -25,7 +26,14 @@
     self.collectionView.dataSource = self;
     self.collectionView.delegate = self;
     
-    self.sneakers = [NSArray arrayWithObjects: @"nil", nil];
+    // Sneakers array initialization
+    PFUser *currentUser = [PFUser currentUser];
+    self.sneakers = [NSArray new];
+    self.sneakers = currentUser[@"sneakers"];
+    if (self.sneakers.count == 0) {
+        self.sneakers = [NSArray arrayWithObject:@"nil"];
+        NSLog(@"%lu", self.sneakers.count);
+    }
     
     // Configuring size of CollectionView
     UICollectionViewFlowLayout *layout = (UICollectionViewFlowLayout *)self.collectionView.collectionViewLayout;
@@ -46,7 +54,7 @@
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+/*- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
     UICollectionViewCell *tappedCell = sender;
@@ -54,7 +62,7 @@
         [self performSegueWithIdentifier:@"searchSegue" sender:nil];
     }
     
-}
+}*/
 
 
 - (nonnull __kindof UICollectionViewCell *)collectionView:(nonnull UICollectionView *)collectionView cellForItemAtIndexPath:(nonnull NSIndexPath *)indexPath {

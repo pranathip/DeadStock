@@ -21,8 +21,6 @@
     PFUser *currentUser = [PFUser currentUser];
     // Configure profile picture to show current user data
     self.profilePictureView.layer.cornerRadius = 45;
-    [self.profilePictureView.layer setBorderColor: [[UIColor lightGrayColor] CGColor]];
-    [self.profilePictureView.layer setBorderWidth: 1.5];
     self.profilePictureView.file = currentUser[@"profilePicture"];
     [self.profilePictureView loadInBackground];
     

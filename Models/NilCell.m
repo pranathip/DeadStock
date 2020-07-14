@@ -9,5 +9,4 @@
 #import "NilCell.h"
 
 @implementation NilCell
-
 @end
