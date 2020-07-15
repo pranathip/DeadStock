@@ -16,6 +16,7 @@
 @property (nonatomic, strong) NSArray *filteredData;
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (weak, nonatomic) IBOutlet UISearchBar *searchBar;
+@property (nonatomic, strong) Sneaker *selectedSneaker;
 
 
 @end
@@ -67,6 +68,13 @@
 
 - (NSInteger)tableView:(nonnull UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     return self.sneakers.count;
+}
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    self.selectedSneaker = self.sneakers[indexPath.row];
+    //NSLog(@"%@", self.selectedSneaker.sneakerName);
+    [self.delegate didAddToDashboard:self.selectedSneaker];
+    [self dismissViewControllerAnimated:YES completion:nil];
 }
 
 @end

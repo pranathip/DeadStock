@@ -7,10 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Sneaker.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
+@protocol SearchViewControllerDelegate
+
+- (void)didAddToDashboard:(Sneaker *)sneaker;
+
+@end
+
 @interface SearchViewController : UIViewController
+
+@property (nonatomic, weak) id<SearchViewControllerDelegate> delegate;
 
 @end
 

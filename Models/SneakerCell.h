@@ -11,6 +11,10 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface SneakerCell : UICollectionViewCell
+@property (weak, nonatomic) IBOutlet UILabel *tickerLabel;
+@property (weak, nonatomic) IBOutlet UIImageView *sneakerPicture;
+@property (weak, nonatomic) IBOutlet UIButton *priceIndicator;
+@property (weak, nonatomic) IBOutlet UILabel *priceLabel;
 
 @end
 

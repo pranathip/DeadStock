@@ -762,6 +762,12 @@
                                         </collectionViewCellContentView>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <size key="customSize" width="180" height="180"/>
+                                        <connections>
+                                            <outlet property="priceIndicator" destination="3f8-aa-fuh" id="qIg-6d-rgv"/>
+                                            <outlet property="priceLabel" destination="KcC-mZ-HiA" id="llS-76-p9p"/>
+                                            <outlet property="sneakerPicture" destination="zV7-Re-fWV" id="Tft-D3-FgH"/>
+                                            <outlet property="tickerLabel" destination="cqZ-lu-RRT" id="UPW-Nq-F8N"/>
+                                        </connections>
                                     </collectionViewCell>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="NilCell" id="sly-Fo-oP9" customClass="NilCell">
                                         <rect key="frame" x="202" y="10" width="177" height="180"/>
