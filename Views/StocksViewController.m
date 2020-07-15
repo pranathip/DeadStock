@@ -81,19 +81,20 @@
         Sneaker *sneaker = self.sneakers[indexPath.row];
         [sneaker fetchIfNeededInBackgroundWithBlock:^(PFObject * _Nullable sneaker, NSError * _Nullable error) {
             if (sneaker) {
-                       // Cell formatting
-                       cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-                       cell.layer.borderWidth = 1;
-                       cell.layer.cornerRadius = 4;
+                // Cell formatting
+                cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+                cell.layer.borderWidth = 1;
+                cell.layer.cornerRadius = 4;
                        
-                       cell.tickerLabel.text = sneaker[@"ticker"];
-                       cell.priceLabel.text = sneaker[@"lastSalePrice"];
-                       NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
-                       cell.sneakerPicture.image = [UIImage imageWithData: imageData];
-                       if (sneaker[@"didPriceIncrease"] == NO) {
-                           cell.priceIndicator.selected = YES;
-                           [cell.priceIndicator setTintColor:[UIColor redColor]];
-                       }
+                cell.tickerLabel.text = sneaker[@"ticker"];
+                cell.priceLabel.text = sneaker[@"lastSalePrice"];
+                NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
+                cell.sneakerPicture.image = [UIImage imageWithData: imageData];
+                if ([sneaker[@"didPriceIncrease"] boolValue] == NO) {
+                    //NSLog(@"down");
+                    cell.priceIndicator.selected = YES;
+                    [cell.priceIndicator setTintColor:[UIColor redColor]];
+                }
             } else {
                 NSLog(@"😫😫😫 Error getting sneakers: %@", error.localizedDescription);
             }
