@@ -47,7 +47,7 @@
     Sneaker *sneaker = self.sneakers[indexPath.row];
     cell.sneakerNameLabel.text = sneaker.sneakerName;
     cell.sneakerColorwayLabel.text = sneaker.colorway;
-    NSData * imageData = [[NSData alloc] initWithContentsOfURL:sneaker.imageURL];
+    NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker.imageURL]];
     cell.sneakerPicture.image = [UIImage imageWithData: imageData];
     return cell;
 }

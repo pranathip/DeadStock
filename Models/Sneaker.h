@@ -2,22 +2,22 @@
 //  Sneaker.h
 //  DeadStock
 //
-//  Created by Pranathi Peri on 7/13/20.
+//  Created by Pranathi Peri on 7/15/20.
 //  Copyright © 2020 Pranathi Peri. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <Parse/Parse.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Sneaker : NSObject
+@interface Sneaker : PFObject
 
 // MARK: properties
 
 @property (nonatomic, strong) NSString *sneakerName;
-@property (nonatomic, strong) NSURL *stockXURL;
+@property (nonatomic, strong) NSString *stockXURL;
 @property (nonatomic, strong) NSString *brand;
-@property (nonatomic, strong) NSURL *imageURL;
+@property (nonatomic, strong) NSString *imageURL;
 @property (nonatomic, strong) NSString *ticker;
 @property (nonatomic, strong) NSString *colorway;
 @property (nonatomic, strong) NSNumber *retailPrice;
@@ -34,6 +34,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (instancetype)initWithDictionary:(NSDictionary *)dictionary;
 + (NSMutableArray *)sneakersWithArray:(NSArray *)dictionaries;
++ (void) postSneakerToParse: (Sneaker *)sneaker withCompletion: (PFBooleanResultBlock  _Nullable)completion;
++ (nonnull NSString *)parseClassName;
 
 @end
 

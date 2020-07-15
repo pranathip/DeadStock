@@ -15,10 +15,10 @@
 		C331E5D324BCD8E90031A3D0 /* NilCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5D224BCD8E90031A3D0 /* NilCell.m */; };
 		C331E5D624BCDD520031A3D0 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5D524BCDD520031A3D0 /* SearchViewController.m */; };
 		C331E5D924BCDDB60031A3D0 /* SearchViewSneakerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5D824BCDDB60031A3D0 /* SearchViewSneakerCell.m */; };
-		C331E5DC24BCE31D0031A3D0 /* Sneaker.m in Sources */ = {isa = PBXBuildFile; fileRef = C331E5DB24BCE31D0031A3D0 /* Sneaker.m */; };
 		C331E5DE24BD067A0031A3D0 /* Directions.geojson in Resources */ = {isa = PBXBuildFile; fileRef = C331E5DD24BD067A0031A3D0 /* Directions.geojson */; };
 		C331E5DF24BD067A0031A3D0 /* Directions.geojson in Resources */ = {isa = PBXBuildFile; fileRef = C331E5DD24BD067A0031A3D0 /* Directions.geojson */; };
 		C331E5E024BD067A0031A3D0 /* Directions.geojson in Resources */ = {isa = PBXBuildFile; fileRef = C331E5DD24BD067A0031A3D0 /* Directions.geojson */; };
+		C34D889924BF81D800B6CBF7 /* Sneaker.m in Sources */ = {isa = PBXBuildFile; fileRef = C34D889824BF81D800B6CBF7 /* Sneaker.m */; };
 		C380129224B78CBB00BAAD17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129124B78CBB00BAAD17 /* AppDelegate.m */; };
 		C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129424B78CBB00BAAD17 /* SceneDelegate.m */; };
 		C380129B24B78CBB00BAAD17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C380129924B78CBB00BAAD17 /* Main.storyboard */; };
@@ -71,9 +71,9 @@
 		C331E5D524BCDD520031A3D0 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
 		C331E5D724BCDDB60031A3D0 /* SearchViewSneakerCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SearchViewSneakerCell.h; sourceTree = "<group>"; };
 		C331E5D824BCDDB60031A3D0 /* SearchViewSneakerCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SearchViewSneakerCell.m; sourceTree = "<group>"; };
-		C331E5DA24BCE31D0031A3D0 /* Sneaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sneaker.h; sourceTree = "<group>"; };
-		C331E5DB24BCE31D0031A3D0 /* Sneaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sneaker.m; sourceTree = "<group>"; };
 		C331E5DD24BD067A0031A3D0 /* Directions.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Directions.geojson; sourceTree = "<group>"; };
+		C34D889724BF81D800B6CBF7 /* Sneaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sneaker.h; sourceTree = "<group>"; };
+		C34D889824BF81D800B6CBF7 /* Sneaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sneaker.m; sourceTree = "<group>"; };
 		C380128D24B78CBB00BAAD17 /* DeadStock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeadStock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C380129024B78CBB00BAAD17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C380129124B78CBB00BAAD17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -149,8 +149,8 @@
 				C331E5D224BCD8E90031A3D0 /* NilCell.m */,
 				C331E5D724BCDDB60031A3D0 /* SearchViewSneakerCell.h */,
 				C331E5D824BCDDB60031A3D0 /* SearchViewSneakerCell.m */,
-				C331E5DA24BCE31D0031A3D0 /* Sneaker.h */,
-				C331E5DB24BCE31D0031A3D0 /* Sneaker.m */,
+				C34D889724BF81D800B6CBF7 /* Sneaker.h */,
+				C34D889824BF81D800B6CBF7 /* Sneaker.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -504,7 +504,7 @@
 				C331E5C924B828660031A3D0 /* StocksViewController.m in Sources */,
 				C38012A324B78CBD00BAAD17 /* main.m in Sources */,
 				C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */,
-				C331E5DC24BCE31D0031A3D0 /* Sneaker.m in Sources */,
+				C34D889924BF81D800B6CBF7 /* Sneaker.m in Sources */,
 				C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */,
 				C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */,
 				C331E5CD24B832450031A3D0 /* SneakerCell.m in Sources */,

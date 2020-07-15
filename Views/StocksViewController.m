@@ -10,6 +10,7 @@
 #import "SearchViewController.h"
 #import "SneakerCell.h"
 #import "NilCell.h"
+#import "Sneaker.h"
 @import Parse;
 
 @interface StocksViewController () <SearchViewControllerDelegate, UICollectionViewDataSource, UICollectionViewDelegate>
@@ -78,19 +79,25 @@
     else {
         SneakerCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"SneakerCell" forIndexPath:indexPath];
         Sneaker *sneaker = self.sneakers[indexPath.row];
-        // Cell formatting
-        cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-        cell.layer.borderWidth = 1;
-        cell.layer.cornerRadius = 4;
-        
-        cell.tickerLabel.text = sneaker.ticker;
-        cell.priceLabel.text = [NSString stringWithFormat:@"$%@", sneaker.lastSalePrice];
-        NSData * imageData = [[NSData alloc] initWithContentsOfURL:sneaker.imageURL];
-        cell.sneakerPicture.image = [UIImage imageWithData: imageData];
-        if (sneaker.didPriceIncrease == false) {
-            [cell.priceIndicator setImage:[UIImage imageNamed:@"arrowtriangle.down.fill"] forState:UIControlStateNormal];
-            [cell.priceIndicator setTintColor:[UIColor redColor]];
-        }
+        [sneaker fetchIfNeededInBackgroundWithBlock:^(PFObject * _Nullable sneaker, NSError * _Nullable error) {
+            if (sneaker) {
+                       // Cell formatting
+                       cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+                       cell.layer.borderWidth = 1;
+                       cell.layer.cornerRadius = 4;
+                       
+                       cell.tickerLabel.text = sneaker[@"ticker"];
+                       cell.priceLabel.text = [NSString stringWithFormat:@"$%@", sneaker[@"lastSalePrice"]];
+                       NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
+                       cell.sneakerPicture.image = [UIImage imageWithData: imageData];
+                       if (sneaker[@"didPriceIncrease"] == false) {
+                           cell.priceIndicator.selected = YES;
+                           [cell.priceIndicator setTintColor:[UIColor redColor]];
+                       }
+            } else {
+                NSLog(@"😫😫😫 Error getting sneakers: %@", error.localizedDescription);
+            }
+        }];
         return cell;
     }
 
@@ -103,6 +110,22 @@
 
 - (void)didAddToDashboard:(nonnull Sneaker *)sneaker {
     [self.sneakers insertObject:sneaker atIndex:0];
+    PFUser *currentUser = [PFUser currentUser];
+    [Sneaker postSneakerToParse:sneaker withCompletion:^(BOOL succeeded, NSError *_Nullable error) {
+        if (error) {
+            NSLog(@"Error posting: %@", error.localizedDescription);
+        } else {
+            NSLog(@"Successfully posted sneaker!");
+        }
+    }];
+    currentUser[@"sneakers"] = [NSArray arrayWithArray:self.sneakers];
+    [currentUser saveInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
+        if (succeeded) {
+            NSLog(@"Sneakers array updated");
+        } else {
+            NSLog(@"Error updating sneakers array: %@", error.localizedDescription);
+        }
+    }];
     [self.collectionView reloadData];
     //NSLog(@"%lu", self.sneakers.count);
 }

@@ -2,7 +2,7 @@
 //  Sneaker.m
 //  DeadStock
 //
-//  Created by Pranathi Peri on 7/13/20.
+//  Created by Pranathi Peri on 7/15/20.
 //  Copyright © 2020 Pranathi Peri. All rights reserved.
 //
 
@@ -10,14 +10,44 @@
 
 @implementation Sneaker
 
+@dynamic sneakerName;
+@dynamic stockXURL;
+@dynamic brand;
+@dynamic imageURL;
+@dynamic ticker;
+@dynamic colorway;
+@dynamic retailPrice;
+@dynamic releaseDate;
+@dynamic volatility;
+@dynamic totalSales;
+@dynamic avgSalePrice;
+@dynamic lastSalePrice;
+@dynamic lastSalePriceIncrease;
+@dynamic didPriceIncrease;
+@dynamic weekHigh;
+@dynamic weekLow;
+@dynamic tradeRange;
+
++ (nonnull NSString *)parseClassName {
+    return @"Sneaker";
+}
+
++ (void) postSneakerToParse: (Sneaker *)sneaker withCompletion: (PFBooleanResultBlock  _Nullable)completion {
+    //Sneaker *sneak = [Sneaker new];
+    //sneak = sneaker;
+    [sneaker saveInBackgroundWithBlock: completion];
+}
+
 - (instancetype)initWithDictionary:(NSDictionary *)dictionary {
-    self = [super init];
+    self = [super initWithClassName:@"Sneaker"];
     if (self) {
         
         self.sneakerName = dictionary[@"name"];
-        self.stockXURL = [NSURL URLWithString:dictionary[@"url"]];
+        //self.stockXURL = [NSURL URLWithString:dictionary[@"url"]];
+        self.stockXURL = dictionary[@"url"];
         self.brand = dictionary[@"brand"];
-        self.imageURL = [NSURL URLWithString:dictionary[@"image"]];
+        //self.imageURL = [NSURL URLWithString:dictionary[@"image"]];
+        self.imageURL = dictionary[@"image"];
         self.ticker = dictionary[@"ticker"];
         self.colorway = dictionary[@"colorway"];
         NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc]init];
@@ -47,5 +77,6 @@
     }
     return sneakers;
 }
+
 
 @end
