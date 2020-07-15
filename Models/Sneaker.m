@@ -50,19 +50,27 @@
         self.imageURL = dictionary[@"image"];
         self.ticker = dictionary[@"ticker"];
         self.colorway = dictionary[@"colorway"];
-        NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc]init];
-        self.retailPrice = [numberFormatter numberFromString:[dictionary[@"retailPrice"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
+        //NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc]init];
+        //self.retailPrice = [numberFormatter numberFromString:[dictionary[@"retailPrice"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
+        self.retailPrice = dictionary[@"retailPrice"];
         NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
         dateFormatter.dateFormat = @"MM/dd/yyyy";
         self.releaseDate = [dateFormatter dateFromString:dictionary[@"release_date"]];
-        self.volatility = [numberFormatter numberFromString:[dictionary[@"volatility"] stringByReplacingOccurrencesOfString:@"%" withString:@""]];
-        self.totalSales = [numberFormatter numberFromString:dictionary[@"total_sales"]];
-        self.avgSalePrice = [numberFormatter numberFromString:dictionary[@"avg_sale_price"]];;
-        self.lastSalePrice = [numberFormatter numberFromString:dictionary[@"last_sale_price"]];;
-        self.lastSalePriceIncrease = [numberFormatter numberFromString:dictionary[@"last_sale_price_increase"]];;
+        //self.volatility = [numberFormatter numberFromString:[dictionary[@"volatility"] stringByReplacingOccurrencesOfString:@"%" withString:@""]];
+        self.volatility = dictionary[@"volatility"];
+        //self.totalSales = [numberFormatter numberFromString:dictionary[@"total_sales"]];
+        self.totalSales = dictionary[@"total_sales"];
+        //self.avgSalePrice = [numberFormatter numberFromString:dictionary[@"avg_sale_price"]];;
+        self.avgSalePrice = dictionary[@"avg_sale_price"];
+        //self.lastSalePrice = [numberFormatter numberFromString:dictionary[@"last_sale_price"]];;
+        self.lastSalePrice = dictionary[@"last_sale_price"];
+        //self.lastSalePriceIncrease = [numberFormatter numberFromString:dictionary[@"last_sale_price_increase"]];;
+        self.lastSalePriceIncrease = dictionary[@"last_sale_price_increase"];
         self.didPriceIncrease = [dictionary[@"did_price_increase"] boolValue];
-        self.weekHigh = [numberFormatter numberFromString:[dictionary[@"high"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
-        self.weekLow = [numberFormatter numberFromString:[dictionary[@"low"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
+        //self.weekHigh = [numberFormatter numberFromString:[dictionary[@"high"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
+        self.weekHigh = dictionary[@"high"];
+        //self.weekLow = [numberFormatter numberFromString:[dictionary[@"low"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
+        self.weekLow = dictionary[@"low"];
         self.tradeRange = dictionary[@"trade_range"];
         
     }

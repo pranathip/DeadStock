@@ -87,10 +87,10 @@
                        cell.layer.cornerRadius = 4;
                        
                        cell.tickerLabel.text = sneaker[@"ticker"];
-                       cell.priceLabel.text = [NSString stringWithFormat:@"$%@", sneaker[@"lastSalePrice"]];
+                       cell.priceLabel.text = sneaker[@"lastSalePrice"];
                        NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
                        cell.sneakerPicture.image = [UIImage imageWithData: imageData];
-                       if (sneaker[@"didPriceIncrease"] == false) {
+                       if (sneaker[@"didPriceIncrease"] == NO) {
                            cell.priceIndicator.selected = YES;
                            [cell.priceIndicator setTintColor:[UIColor redColor]];
                        }

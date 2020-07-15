@@ -20,16 +20,16 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *imageURL;
 @property (nonatomic, strong) NSString *ticker;
 @property (nonatomic, strong) NSString *colorway;
-@property (nonatomic, strong) NSNumber *retailPrice;
+@property (nonatomic, strong) NSString *retailPrice;
 @property (nonatomic, strong) NSDate *releaseDate;
-@property (nonatomic, strong) NSNumber *volatility;
-@property (nonatomic, strong) NSNumber *totalSales;
-@property (nonatomic, strong) NSNumber *avgSalePrice;
-@property (nonatomic, strong) NSNumber *lastSalePrice;
-@property (nonatomic, strong) NSNumber *lastSalePriceIncrease;
+@property (nonatomic, strong) NSString *volatility;
+@property (nonatomic, strong) NSString *totalSales;
+@property (nonatomic, strong) NSString *avgSalePrice;
+@property (nonatomic, strong) NSString *lastSalePrice;
+@property (nonatomic, strong) NSString *lastSalePriceIncrease;
 @property (nonatomic) BOOL didPriceIncrease;
-@property (nonatomic, strong) NSNumber *weekHigh;
-@property (nonatomic, strong) NSNumber *weekLow;
+@property (nonatomic, strong) NSString *weekHigh;
+@property (nonatomic, strong) NSString *weekLow;
 @property (nonatomic, strong) NSString *tradeRange;
 
 - (instancetype)initWithDictionary:(NSDictionary *)dictionary;
