@@ -44,7 +44,7 @@
 
 - (nonnull UITableViewCell *)tableView:(nonnull UITableView *)tableView cellForRowAtIndexPath:(nonnull NSIndexPath *)indexPath {
     SearchViewSneakerCell *cell = [tableView dequeueReusableCellWithIdentifier:@"SearchCell"];
-    Sneaker *sneaker = self.sneakers[indexPath.row];
+    Sneaker *sneaker = self.filteredData[indexPath.row];
     cell.sneakerNameLabel.text = sneaker.sneakerName;
     cell.sneakerColorwayLabel.text = sneaker.colorway;
     NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker.imageURL]];
@@ -55,6 +55,7 @@
 - (void)fetchSneakers {
     NSArray *arr = [self JSONFromFile];
     self.sneakers = [Sneaker sneakersWithArray:arr];
+    self.filteredData = self.sneakers;
 }
 
 - (NSArray *)JSONFromFile {
@@ -67,14 +68,32 @@
 }
 
 - (NSInteger)tableView:(nonnull UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return self.sneakers.count;
+    return self.filteredData.count;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    self.selectedSneaker = self.sneakers[indexPath.row];
+    self.selectedSneaker = self.filteredData[indexPath.row];
     //NSLog(@"%@", self.selectedSneaker.sneakerName);
     [self.delegate didAddToDashboard:self.selectedSneaker];
     [self dismissViewControllerAnimated:YES completion:nil];
+}
+
+- (void)searchBar:(UISearchBar *)searchBar textDidChange:(NSString *)searchText {
+    
+    if (searchText.length != 0) {
+        
+        NSPredicate *predicate = [NSPredicate predicateWithFormat: @"sneakerName contains[c] %@", searchText];
+        self.filteredData = [self.sneakers filteredArrayUsingPredicate:predicate];
+
+        NSLog(@"%lu", [self.filteredData count]);
+        
+    }
+    else {
+        self.filteredData = self.sneakers;
+    }
+    
+    [self.tableView reloadData];
+ 
 }
 
 @end

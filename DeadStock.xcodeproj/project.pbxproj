@@ -19,6 +19,8 @@
 		C331E5DF24BD067A0031A3D0 /* Directions.geojson in Resources */ = {isa = PBXBuildFile; fileRef = C331E5DD24BD067A0031A3D0 /* Directions.geojson */; };
 		C331E5E024BD067A0031A3D0 /* Directions.geojson in Resources */ = {isa = PBXBuildFile; fileRef = C331E5DD24BD067A0031A3D0 /* Directions.geojson */; };
 		C34D889924BF81D800B6CBF7 /* Sneaker.m in Sources */ = {isa = PBXBuildFile; fileRef = C34D889824BF81D800B6CBF7 /* Sneaker.m */; };
+		C34D889F24C2299000B6CBF7 /* NewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C34D889E24C2299000B6CBF7 /* NewsCell.m */; };
+		C34D88A224C234E800B6CBF7 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C34D88A124C234E800B6CBF7 /* NewsViewController.m */; };
 		C380129224B78CBB00BAAD17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129124B78CBB00BAAD17 /* AppDelegate.m */; };
 		C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C380129424B78CBB00BAAD17 /* SceneDelegate.m */; };
 		C380129B24B78CBB00BAAD17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C380129924B78CBB00BAAD17 /* Main.storyboard */; };
@@ -74,6 +76,10 @@
 		C331E5DD24BD067A0031A3D0 /* Directions.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Directions.geojson; sourceTree = "<group>"; };
 		C34D889724BF81D800B6CBF7 /* Sneaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sneaker.h; sourceTree = "<group>"; };
 		C34D889824BF81D800B6CBF7 /* Sneaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sneaker.m; sourceTree = "<group>"; };
+		C34D889D24C2299000B6CBF7 /* NewsCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsCell.h; sourceTree = "<group>"; };
+		C34D889E24C2299000B6CBF7 /* NewsCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsCell.m; sourceTree = "<group>"; };
+		C34D88A024C234E800B6CBF7 /* NewsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
+		C34D88A124C234E800B6CBF7 /* NewsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
 		C380128D24B78CBB00BAAD17 /* DeadStock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeadStock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C380129024B78CBB00BAAD17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C380129124B78CBB00BAAD17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -151,6 +157,8 @@
 				C331E5D824BCDDB60031A3D0 /* SearchViewSneakerCell.m */,
 				C34D889724BF81D800B6CBF7 /* Sneaker.h */,
 				C34D889824BF81D800B6CBF7 /* Sneaker.m */,
+				C34D889D24C2299000B6CBF7 /* NewsCell.h */,
+				C34D889E24C2299000B6CBF7 /* NewsCell.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -239,6 +247,8 @@
 				C331E5C824B828660031A3D0 /* StocksViewController.m */,
 				C331E5D424BCDD520031A3D0 /* SearchViewController.h */,
 				C331E5D524BCDD520031A3D0 /* SearchViewController.m */,
+				C34D88A024C234E800B6CBF7 /* NewsViewController.h */,
+				C34D88A124C234E800B6CBF7 /* NewsViewController.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -499,6 +509,7 @@
 			files = (
 				C380129224B78CBB00BAAD17 /* AppDelegate.m in Sources */,
 				C38012CD24B7A28E00BAAD17 /* SignUpViewController.m in Sources */,
+				C34D889F24C2299000B6CBF7 /* NewsCell.m in Sources */,
 				C38012D624B7DDAE00BAAD17 /* ProfileViewController.m in Sources */,
 				C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */,
 				C331E5C924B828660031A3D0 /* StocksViewController.m in Sources */,
@@ -507,6 +518,7 @@
 				C34D889924BF81D800B6CBF7 /* Sneaker.m in Sources */,
 				C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */,
 				C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */,
+				C34D88A224C234E800B6CBF7 /* NewsViewController.m in Sources */,
 				C331E5CD24B832450031A3D0 /* SneakerCell.m in Sources */,
 				C331E5D624BCDD520031A3D0 /* SearchViewController.m in Sources */,
 				C331E5D324BCD8E90031A3D0 /* NilCell.m in Sources */,
@@ -681,6 +693,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Y5375852P9;
 				INFOPLIST_FILE = DeadStock/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -698,6 +711,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Y5375852P9;
 				INFOPLIST_FILE = DeadStock/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

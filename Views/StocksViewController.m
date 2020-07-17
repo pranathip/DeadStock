@@ -72,8 +72,9 @@
         NilCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"NilCell" forIndexPath:indexPath];
         // Cell formatting
         cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-        cell.layer.borderWidth = 1;
+        cell.layer.borderWidth = 2;
         cell.layer.cornerRadius = 4;
+        
         return cell;
     }
     else {
@@ -82,9 +83,16 @@
         [sneaker fetchIfNeededInBackgroundWithBlock:^(PFObject * _Nullable sneaker, NSError * _Nullable error) {
             if (sneaker) {
                 // Cell formatting
-                cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-                cell.layer.borderWidth = 1;
+                //cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+                //cell.layer.borderWidth = 2;
                 cell.layer.cornerRadius = 4;
+                
+                cell.layer.shadowColor = [UIColor blackColor].CGColor;
+                cell.layer.shadowOffset = CGSizeMake(0, 3.0f);
+                cell.layer.shadowRadius = 2.0f;
+                cell.layer.shadowOpacity = 0.2f;
+                cell.layer.masksToBounds = NO;
+                cell.layer.shadowPath = [UIBezierPath bezierPathWithRoundedRect:cell.bounds cornerRadius:cell.contentView.layer.cornerRadius].CGPath;
                        
                 cell.tickerLabel.text = sneaker[@"ticker"];
                 cell.priceLabel.text = sneaker[@"lastSalePrice"];
