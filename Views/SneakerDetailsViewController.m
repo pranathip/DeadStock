@@ -26,11 +26,13 @@
     
     if ([self.sneaker[@"didPriceIncrease"] boolValue] == YES) {
         self.priceIncreaseLabel.text = [NSString stringWithFormat:@"+%@", self.sneaker[@"lastSalePriceIncrease"]];
+        self.volatilityLabel.textColor = [UIColor systemGreenColor];
     } else if ([self.sneaker[@"didPriceIncrease"] boolValue] == NO) {
         self.priceIncreaseLabel.text = [NSString stringWithFormat:@"-%@", self.sneaker[@"lastSalePriceIncrease"]];
         self.priceIncreaseLabel.textColor = [UIColor redColor];
         self.lastSaleButton.selected = YES;
         [self.lastSaleButton setTintColor:[UIColor redColor]];
+        self.volatilityLabel.textColor = [UIColor redColor];
     }
     
     self.colorwayLabel.text = self.sneaker[@"colorway"];
@@ -39,6 +41,14 @@
     self.dateLabel.text = [dateFormatter stringFromDate:self.sneaker[@"releaseDate"]];
     NSLog(@"%@", self.sneaker[@"retailPrice"]);
     self.priceLabel.text = self.sneaker[@"retailPrice"];
+    self.highLabel.text = self.sneaker[@"weekHigh"];
+    self.lowLabel.text = self.sneaker[@"weekLow"];
+    self.rangeLabel.text = self.sneaker[@"tradeRange"];
+    self.volatilityLabel.text = self.sneaker[@"volatility"];
+    
+    self.view1.layer.cornerRadius = 3;
+    self.view2.layer.cornerRadius = 3;
+    self.view3.layer.cornerRadius = 3;
     
 }
 

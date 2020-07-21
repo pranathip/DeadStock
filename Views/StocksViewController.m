@@ -125,7 +125,7 @@
                     [cell.priceIndicator setTintColor:[UIColor redColor]];
                 } else if ([sneaker[@"didPriceIncrease"] boolValue] == YES) {
                     cell.priceIndicator.selected = NO;
-                    [cell.priceIndicator setTintColor:[UIColor greenColor]];
+                    [cell.priceIndicator setTintColor:[UIColor systemGreenColor]];
                 }
             } else {
                 NSLog(@"😫😫😫 Error getting sneakers: %@", error.localizedDescription);
