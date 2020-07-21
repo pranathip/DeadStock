@@ -178,6 +178,15 @@
 -(void)didTapDelete:(UIButton*)sender {
     NSLog(@"%lu", sender.tag);
     [self.sneakers removeObjectAtIndex:sender.tag];
+    PFUser *currentUser = [PFUser currentUser];
+    currentUser[@"sneakers"] = self.sneakers;
+    [currentUser saveInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
+        if (succeeded) {
+            NSLog(@"Sneakers array updated");
+        } else {
+            NSLog(@"Error updating sneakers array: %@", error.localizedDescription);
+        }
+    }];
     [self.collectionView reloadData];
 }
 
