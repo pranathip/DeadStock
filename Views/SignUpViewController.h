@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 @import Parse;
+@import MBProgressHUD;
 
 NS_ASSUME_NONNULL_BEGIN
 

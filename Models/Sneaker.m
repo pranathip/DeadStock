@@ -52,7 +52,7 @@
         self.colorway = dictionary[@"colorway"];
         //NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc]init];
         //self.retailPrice = [numberFormatter numberFromString:[dictionary[@"retailPrice"] stringByReplacingOccurrencesOfString:@"$" withString:@""]];
-        self.retailPrice = dictionary[@"retailPrice"];
+        self.retailPrice = dictionary[@"retail_price"];
         NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
         dateFormatter.dateFormat = @"MM/dd/yyyy";
         self.releaseDate = [dateFormatter dateFromString:dictionary[@"release_date"]];

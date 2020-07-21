@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UIImageView *sneakerPicture;
 @property (weak, nonatomic) IBOutlet UIButton *priceIndicator;
 @property (weak, nonatomic) IBOutlet UILabel *priceLabel;
-
+@property (weak, nonatomic) IBOutlet UIButton *deleteButton;
 @end
 
 NS_ASSUME_NONNULL_END

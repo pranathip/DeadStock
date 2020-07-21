@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface StocksViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *dateLabel;
+@property (weak, nonatomic) IBOutlet UIBarButtonItem *editButton;
 
 @end
 

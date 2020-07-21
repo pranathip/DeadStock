@@ -35,6 +35,7 @@
 - (IBAction)didTapSignUpButton:(id)sender {
     //  If the username or password fields are left blank, throw an alert controller
     NSLog(@"tapped");
+    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     if ([self.firstNameTextField.text isEqualToString:@""] ||[self.usernameTextField.text isEqualToString:@""] || [self.passwordTextField.text isEqualToString:@""] || [self.emailTextField.text isEqualToString:@""]) {
         UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"Error Signing Up"
                message:@"The required fields must not be left blank."
@@ -48,6 +49,7 @@
         
         [self presentViewController:alert animated:YES completion:^{
             // optional code for what happens after the alert controller has finished presenting
+            [MBProgressHUD hideHUDForView:self.view animated:YES];
         }];
     }
     
@@ -77,11 +79,13 @@
             
             [self presentViewController:alert animated:YES completion:^{
                 // optional code for what happens after the alert controller has finished presenting
+                [MBProgressHUD hideHUDForView:self.view animated:YES];
             }];
         } else {
             NSLog(@"User registered successfully");
             // manually segue to logged in view
             [self performSegueWithIdentifier:@"signupSegue" sender:nil];
+            [MBProgressHUD hideHUDForView:self.view animated:YES];
         }
     }];
 }

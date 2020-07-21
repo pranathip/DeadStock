@@ -11,11 +11,13 @@
 #import "SneakerCell.h"
 #import "NilCell.h"
 #import "Sneaker.h"
+#import "SneakerDetailsViewController.h"
 @import Parse;
 
 @interface StocksViewController () <SearchViewControllerDelegate, UICollectionViewDataSource, UICollectionViewDelegate>
 @property (strong, nonatomic) NSMutableArray *sneakers;
 @property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
+@property (nonatomic) BOOL shouldDelete;
 
 @end
 
@@ -51,6 +53,9 @@
     NSDateFormatter *dateFormatter=[[NSDateFormatter alloc] init];
     [dateFormatter setDateFormat:@"MMMM dd"];
     self.dateLabel.text = [dateFormatter stringFromDate:[NSDate date]];
+    
+    // Delete bool
+    self.shouldDelete = NO;
 }
 
 
@@ -60,9 +65,19 @@
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
-    UINavigationController *navigationController = [segue destinationViewController];
-    SearchViewController *searchController = (SearchViewController*)navigationController;
-    searchController.delegate = self;
+    UICollectionViewCell *tappedCell = sender;
+    NSIndexPath *indexPath = [self.collectionView indexPathForCell:tappedCell];
+    Sneaker *sneaker = self.sneakers[indexPath.row];
+    
+    if ([segue.identifier isEqualToString:@"detailsSegue"]) {
+        SneakerDetailsViewController *detailsViewController = [segue destinationViewController];
+        detailsViewController.sneaker = sneaker;
+        
+    } else if ([segue.identifier isEqualToString:@"searchSegue"]) {
+        UINavigationController *navigationController = [segue destinationViewController];
+        SearchViewController *searchController = (SearchViewController*)navigationController;
+        searchController.delegate = self;
+    }
 }
 
 
@@ -86,14 +101,20 @@
                 //cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
                 //cell.layer.borderWidth = 2;
                 cell.layer.cornerRadius = 4;
-                
+                if (self.shouldDelete == YES) {
+                    cell.deleteButton.alpha = 1;
+                    cell.deleteButton.tag = indexPath.row;
+                    [cell.deleteButton addTarget:self action:@selector(didTapDelete:) forControlEvents:UIControlEventTouchUpInside];
+                } else if (self.shouldDelete == NO) {
+                    cell.deleteButton.alpha = 0;
+                    cell.deleteButton.tag = indexPath.row;
+                }
                 cell.layer.shadowColor = [UIColor blackColor].CGColor;
                 cell.layer.shadowOffset = CGSizeMake(0, 3.0f);
                 cell.layer.shadowRadius = 2.0f;
                 cell.layer.shadowOpacity = 0.2f;
                 cell.layer.masksToBounds = NO;
                 cell.layer.shadowPath = [UIBezierPath bezierPathWithRoundedRect:cell.bounds cornerRadius:cell.contentView.layer.cornerRadius].CGPath;
-                       
                 cell.tickerLabel.text = sneaker[@"ticker"];
                 cell.priceLabel.text = sneaker[@"lastSalePrice"];
                 NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
@@ -102,6 +123,9 @@
                     //NSLog(@"down");
                     cell.priceIndicator.selected = YES;
                     [cell.priceIndicator setTintColor:[UIColor redColor]];
+                } else if ([sneaker[@"didPriceIncrease"] boolValue] == YES) {
+                    cell.priceIndicator.selected = NO;
+                    [cell.priceIndicator setTintColor:[UIColor greenColor]];
                 }
             } else {
                 NSLog(@"😫😫😫 Error getting sneakers: %@", error.localizedDescription);
@@ -137,6 +161,24 @@
     }];
     [self.collectionView reloadData];
     //NSLog(@"%lu", self.sneakers.count);
+}
+
+- (IBAction)editButtonTapped:(id)sender {
+    if ([self.editButton.title isEqual:@"Edit"]) {
+        self.shouldDelete = YES;
+        [self.editButton setTitle:@"Cancel"];
+        [self.collectionView reloadItemsAtIndexPaths:self.collectionView.indexPathsForVisibleItems];
+    } else if ([self.editButton.title isEqual:@"Cancel"]) {
+        self.shouldDelete = NO;
+        [self.editButton setTitle:@"Edit"];
+        [self.collectionView reloadItemsAtIndexPaths:self.collectionView.indexPathsForVisibleItems];
+    }
+}
+
+-(void)didTapDelete:(UIButton*)sender {
+    NSLog(@"%lu", sender.tag);
+    [self.sneakers removeObjectAtIndex:sender.tag];
+    [self.collectionView reloadData];
 }
 
 @end

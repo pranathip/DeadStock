@@ -34,6 +34,8 @@
 		C38012D024B7AB2B00BAAD17 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012CF24B7AB2B00BAAD17 /* LogInViewController.m */; };
 		C38012D324B7B13E00BAAD17 /* ImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012D224B7B13E00BAAD17 /* ImageHelper.m */; };
 		C38012D624B7DDAE00BAAD17 /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */; };
+		C3AA631424C240EE002ED527 /* SneakerDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3AA631324C240EE002ED527 /* SneakerDetailsViewController.m */; };
+		C3AA631724C240FD002ED527 /* NewsDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3AA631624C240FD002ED527 /* NewsDetailsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -106,6 +108,10 @@
 		C38012D224B7B13E00BAAD17 /* ImageHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageHelper.m; sourceTree = "<group>"; };
 		C38012D424B7DDAE00BAAD17 /* ProfileViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
 		C38012D524B7DDAE00BAAD17 /* ProfileViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
+		C3AA631224C240EE002ED527 /* SneakerDetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SneakerDetailsViewController.h; sourceTree = "<group>"; };
+		C3AA631324C240EE002ED527 /* SneakerDetailsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SneakerDetailsViewController.m; sourceTree = "<group>"; };
+		C3AA631524C240FD002ED527 /* NewsDetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsDetailsViewController.h; sourceTree = "<group>"; };
+		C3AA631624C240FD002ED527 /* NewsDetailsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsDetailsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,6 +255,10 @@
 				C331E5D524BCDD520031A3D0 /* SearchViewController.m */,
 				C34D88A024C234E800B6CBF7 /* NewsViewController.h */,
 				C34D88A124C234E800B6CBF7 /* NewsViewController.m */,
+				C3AA631224C240EE002ED527 /* SneakerDetailsViewController.h */,
+				C3AA631324C240EE002ED527 /* SneakerDetailsViewController.m */,
+				C3AA631524C240FD002ED527 /* NewsDetailsViewController.h */,
+				C3AA631624C240FD002ED527 /* NewsDetailsViewController.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -518,10 +528,12 @@
 				C34D889924BF81D800B6CBF7 /* Sneaker.m in Sources */,
 				C380129524B78CBB00BAAD17 /* SceneDelegate.m in Sources */,
 				C38012CA24B7A0C100BAAD17 /* LaunchViewController.m in Sources */,
+				C3AA631424C240EE002ED527 /* SneakerDetailsViewController.m in Sources */,
 				C34D88A224C234E800B6CBF7 /* NewsViewController.m in Sources */,
 				C331E5CD24B832450031A3D0 /* SneakerCell.m in Sources */,
 				C331E5D624BCDD520031A3D0 /* SearchViewController.m in Sources */,
 				C331E5D324BCD8E90031A3D0 /* NilCell.m in Sources */,
+				C3AA631724C240FD002ED527 /* NewsDetailsViewController.m in Sources */,
 				C331E5D924BCDDB60031A3D0 /* SearchViewSneakerCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
