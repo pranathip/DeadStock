@@ -8,6 +8,7 @@
 
 #import "NewsViewController.h"
 #import "NewsCell.h"
+@import MBProgressHUD;
 
 @interface NewsViewController () <UITableViewDelegate, UITableViewDataSource>
 
@@ -29,6 +30,7 @@
 
 - (void) fetchNews {
     
+    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     NSURL *url = [NSURL URLWithString:@"https://newsapi.org/v2/everything?domains=sneakernews.com&apiKey=26551cec2b2b40fba05f7f5b56c32a61"];
     NSURLRequest *request = [NSURLRequest requestWithURL:url cachePolicy:NSURLRequestReloadIgnoringLocalCacheData timeoutInterval:10.0];
     NSURLSession *session = [NSURLSession sessionWithConfiguration:[NSURLSessionConfiguration defaultSessionConfiguration] delegate:nil delegateQueue:[NSOperationQueue mainQueue]];
@@ -45,6 +47,7 @@
                NSLog(@"%@", dataDictionary);
                self.news = dataDictionary[@"articles"];
                [self.tableView reloadData];
+               [MBProgressHUD hideHUDForView:self.view animated:YES];
            }
        }];
     [task resume];
@@ -65,11 +68,14 @@
     NSDictionary *article = self.news[indexPath.row];
     cell.titleLabel.text = article[@"title"];
     cell.descriptionLabel.text = article[@"description"];
+    NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:article[@"urlToImage"]]];
+    cell.newsImage.image = [UIImage imageWithData: imageData];
+    cell.newsImage.layer.cornerRadius = 3;
     return cell;
 }
 
 - (NSInteger)tableView:(nonnull UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return self.news.count;
+    return 10;
 }
 
 @end

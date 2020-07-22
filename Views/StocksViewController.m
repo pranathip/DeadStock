@@ -177,8 +177,21 @@
 
 -(void)didTapDelete:(UIButton*)sender {
     NSLog(@"%lu", sender.tag);
-    [self.sneakers removeObjectAtIndex:sender.tag];
     PFUser *currentUser = [PFUser currentUser];
+    PFQuery *query = [PFQuery queryWithClassName:@"Sneaker"];
+    [query findObjectsInBackgroundWithBlock:^(NSArray *sneaks, NSError *error) {
+        if (error) {
+            NSLog(@"Error deleting sneaker from parse: %@", error.localizedDescription);
+        } else {
+            for (Sneaker *s in sneaks) {
+                if ([s isEqual:self.sneakers[sender.tag]])
+                    NSLog(@"deleted");
+                    [s deleteInBackground];
+            }
+            NSLog(@"Sneaker deleted from parse");
+        }
+    }];
+    [self.sneakers removeObjectAtIndex:sender.tag];
     currentUser[@"sneakers"] = self.sneakers;
     [currentUser saveInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
         if (succeeded) {
