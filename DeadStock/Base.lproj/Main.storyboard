@@ -723,7 +723,7 @@
                                                     <color key="textColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="0.91502568490000002" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KcC-mZ-HiA">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KcC-mZ-HiA" customClass="UICountingLabel">
                                                     <rect key="frame" x="39" y="148" width="14" height="24"/>
                                                     <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -775,7 +775,7 @@
                                         <connections>
                                             <outlet property="deleteButton" destination="c8H-dS-pjd" id="Bik-Iq-IIy"/>
                                             <outlet property="priceIndicator" destination="3f8-aa-fuh" id="qIg-6d-rgv"/>
-                                            <outlet property="priceLabel" destination="KcC-mZ-HiA" id="llS-76-p9p"/>
+                                            <outlet property="priceLabel" destination="KcC-mZ-HiA" id="Lne-Qu-Ddy"/>
                                             <outlet property="sneakerPicture" destination="zV7-Re-fWV" id="Tft-D3-FgH"/>
                                             <outlet property="tickerLabel" destination="cqZ-lu-RRT" id="UPW-Nq-F8N"/>
                                             <segue destination="3Oe-df-S9n" kind="show" identifier="detailsSegue" id="hTP-Ya-bqr"/>

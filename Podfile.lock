@@ -22,12 +22,14 @@ PODS:
     - Bolts/Tasks (= 1.9.1)
   - Parse/UI (1.18.0):
     - Parse/Core
+  - UICountingLabel (1.4.1)
 
 DEPENDENCIES:
   - AFNetworking
   - MBProgressHUD
   - Parse
   - Parse/UI
+  - UICountingLabel
 
 SPEC REPOS:
   trunk:
@@ -35,13 +37,15 @@ SPEC REPOS:
     - Bolts
     - MBProgressHUD
     - Parse
+    - UICountingLabel
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   Parse: 79bdda34fdb7eb2a707a43a951c8aae236cb3e34
+  UICountingLabel: faf890b505d96312e324a86718f031fafffb0ccb
 
-PODFILE CHECKSUM: 99e886486406044e9bc929ea70b910d24edc72d8
+PODFILE CHECKSUM: 7fb835dbec69491f91b34f4251ffbf7cf0ce9f39
 
 COCOAPODS: 1.9.3

@@ -10,6 +10,7 @@ target 'DeadStock' do
   pod 'Parse'
   pod 'Parse/UI'
   pod 'MBProgressHUD'
+  pod 'UICountingLabel'
 
   target 'DeadStockTests' do
     inherit! :search_paths

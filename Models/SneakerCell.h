@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+@import UICountingLabel;
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -14,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UILabel *tickerLabel;
 @property (weak, nonatomic) IBOutlet UIImageView *sneakerPicture;
 @property (weak, nonatomic) IBOutlet UIButton *priceIndicator;
-@property (weak, nonatomic) IBOutlet UILabel *priceLabel;
+@property (weak, nonatomic) IBOutlet UICountingLabel *priceLabel;
 @property (weak, nonatomic) IBOutlet UIButton *deleteButton;
 @end
 

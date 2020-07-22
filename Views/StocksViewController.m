@@ -13,6 +13,7 @@
 #import "Sneaker.h"
 #import "SneakerDetailsViewController.h"
 @import Parse;
+@import UICountingLabel;
 
 @interface StocksViewController () <SearchViewControllerDelegate, UICollectionViewDataSource, UICollectionViewDelegate>
 @property (strong, nonatomic) NSMutableArray *sneakers;
@@ -116,7 +117,15 @@
                 cell.layer.masksToBounds = NO;
                 cell.layer.shadowPath = [UIBezierPath bezierPathWithRoundedRect:cell.bounds cornerRadius:cell.contentView.layer.cornerRadius].CGPath;
                 cell.tickerLabel.text = sneaker[@"ticker"];
-                cell.priceLabel.text = sneaker[@"lastSalePrice"];
+                // Counting animation
+                NSString *lastSalePrice = [sneaker[@"lastSalePrice"]
+                stringByReplacingOccurrencesOfString:@"$" withString:@""];
+                lastSalePrice = [lastSalePrice
+                stringByReplacingOccurrencesOfString:@"," withString:@""];
+                int lastSalePriceInt = [lastSalePrice intValue];
+                cell.priceLabel.format = @"$%d";
+                cell.priceLabel.method = UILabelCountingMethodEaseInOut;
+                [cell.priceLabel countFromZeroTo:lastSalePriceInt];
                 NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
                 cell.sneakerPicture.image = [UIImage imageWithData: imageData];
                 if ([sneaker[@"didPriceIncrease"] boolValue] == NO) {
