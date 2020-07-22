@@ -86,8 +86,8 @@
     if ([self.sneakers[indexPath.row] isEqual:@"nil"]) {
         NilCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"NilCell" forIndexPath:indexPath];
         // Cell formatting
-        cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
-        cell.layer.borderWidth = 2;
+        //cell.layer.borderColor = [[UIColor systemGray2Color] CGColor];
+        //cell.layer.borderWidth = 2;
         cell.layer.cornerRadius = 4;
         
         return cell;

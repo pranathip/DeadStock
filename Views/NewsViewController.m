@@ -7,6 +7,7 @@
 //
 
 #import "NewsViewController.h"
+#import "NewsDetailsViewController.h"
 #import "NewsCell.h"
 @import MBProgressHUD;
 
@@ -53,15 +54,20 @@
     [task resume];
 }
 
-/*
+
 #pragma mark - Navigation
 
 // In a storyboard-based application, you will often want to do a little preparation before navigation
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
+    UITableViewCell *tappedCell = sender;
+    NSIndexPath *indexPath = [self.tableView indexPathForCell:tappedCell];
+    NSDictionary *article = self.news[indexPath.row];
+    
+    NewsDetailsViewController *detailsViewController = [segue destinationViewController];
+    detailsViewController.article = article;
 }
-*/
 
 - (nonnull UITableViewCell *)tableView:(nonnull UITableView *)tableView cellForRowAtIndexPath:(nonnull NSIndexPath *)indexPath {
     NewsCell *cell = [tableView dequeueReusableCellWithIdentifier:@"NewsCell" forIndexPath:indexPath];

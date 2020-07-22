@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:self.article[@"urlToImage"]]];
+    self.newsImage.image = [UIImage imageWithData: imageData];
+    self.titleLabel.text = self.article[@"title"];
+    self.authorLabel.text = [NSString stringWithFormat:@"By %@, %@", self.article[@"author"], self.article[@"source"][@"name"]];
+    self.bodyText.text = self.article[@"description"];
 }
 
 /*
