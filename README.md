@@ -29,7 +29,7 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 * User can view their profile and add a profile picture, bio, and various other interests
 * User can search for and add sneakers to dashboard
 * User can view the details of a sneaker by tapping on its profile
-* User can add shoes to favorites/wish-list
+* User can view top stories from popular sneaker news websites.
 
 **Optional Nice-to-have Stories**
 
@@ -58,7 +58,7 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 
 * Profile
 * Dashboard
-* Wish-List
+* News
 
 **Flow Navigation** (Screen to Screen)
 
@@ -71,14 +71,15 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 * Profile Screen
     * None
 * Dashboard
-    * Details Screen
+    * Sneaker Details Screen
 * Details Screen
     * None
-* Wish-List Screen
-    * None
+* News Screen
+    * News Details Screen
 
 ## Wireframes
 <img src="https://github.com/pranathip/DeadStock/blob/master/Digital_Wireframe.png?raw=true" width=600>
+<img src="https://github.com/pranathip/DeadStock/blob/master/Mockup.png?raw=true" width=600>
 
 ### [BONUS] Interactive Prototype
 
@@ -108,17 +109,18 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
 * Profile Screen
   * (Read/GET) Query logged in user object
   * (Update/PUT) Update user profile picture, first/last name, username, email, and/or bio
-* Wish-list Screen
-  * (Read/GET) Query all sneakers that user has added to wishlist
-  * (Create/POST) create a new addition to the tableView list based on user input
-  * (Delete) Delete an existing sneaker from wish-list
-  * (Read/GET) Query all sneakers using a search based on key words that user inputs into search bar
-* Details Screen
+* News Screen
+  * (Read/GET) Query all recent news articles from the news API
+* Sneakers Details Screen
   * (Read/GET) Query all information/extended details about the sneaker in question
+* News Details Screen
+  * (Read/GET) Query all information/extended details about the article in question
 
-**Sneaker API (will be used primarily for the wishlist screen, while the scraped StockX data will be used to update the dashboard**
-**Base URL - https://api.thesneakerdatabase.com**
-| HTTP Verb | Endpoint | Description | return value |
-| --- | --- | --- | --- |
-| `GET` | /v1/sneakers | search for sneakers | returns a list of sneakers |
-| `GET` | /v1/sneakers/{sneakerId} | find sneaker by ID | returns a single sneaker | 
+**News API (will be used primarily for the wishlist screen, while the scraped StockX data will be used to update the dashboard**
+**Base URL - http://newsapi.org/v2**
+| HTTP Verb | Endpoint | Description |
+| --- | --- | --- |
+| `GET` | /everything?q={TOPIC}&from=2020-06-23&sortBy=publishedAt | get all articles about TOPIC from the last month, sorted by recent first |
+| `GET` | /top-headlines?country=us&category={TOPIC} | top {TOPIC} headlines in the US right now |
+| `GET` | /top-headlines?sources={SOURCE} | top headlines from {SOURCE} |
+| `GET` | /everything?domains={DOMAIN} | all articles published at {DOMAIN} |
