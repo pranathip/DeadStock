@@ -15,6 +15,8 @@
 
 @property (nonatomic, strong) NSArray *news;
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *newsSwitchController;
+@property (strong, nonatomic) NSURL *url;
 
 @end
 
@@ -32,12 +34,18 @@
 - (void) fetchNews {
     
     [MBProgressHUD showHUDAddedTo:self.view animated:YES];
-    NSURL *url = [NSURL URLWithString:@"https://newsapi.org/v2/everything?domains=sneakernews.com&apiKey=26551cec2b2b40fba05f7f5b56c32a61"];
-    NSURLRequest *request = [NSURLRequest requestWithURL:url cachePolicy:NSURLRequestReloadIgnoringLocalCacheData timeoutInterval:10.0];
+    if (self.newsSwitchController.selectedSegmentIndex == 0) {
+        NSLog(@"sneaker news");
+        self.url = [NSURL URLWithString:@"https://newsapi.org/v2/everything?domains=sneakernews.com&apiKey=26551cec2b2b40fba05f7f5b56c32a61"];
+    } else if (self.newsSwitchController.selectedSegmentIndex == 1) {
+        NSLog(@"sole collector");
+        self.url = [NSURL URLWithString:@"https://newsapi.org/v2/everything?domains=solecollector.com&apiKey=26551cec2b2b40fba05f7f5b56c32a61"];
+    }
+    NSURLRequest *request = [NSURLRequest requestWithURL:self.url cachePolicy:NSURLRequestReloadIgnoringLocalCacheData timeoutInterval:10.0];
     NSURLSession *session = [NSURLSession sessionWithConfiguration:[NSURLSessionConfiguration defaultSessionConfiguration] delegate:nil delegateQueue:[NSOperationQueue mainQueue]];
     NSURLSessionDataTask *task = [session dataTaskWithRequest:request completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
            if (error != nil) {
-               NSLog(@"%@", [error localizedDescription]);
+               NSLog(@"Error: %@", [error localizedDescription]);
            }
            else {
                NSDictionary *dataDictionary = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil];
@@ -45,7 +53,7 @@
                // TODO: Get the array of news
                // TODO: Store the movies in a property to use elsewhere
                // TODO: Reload your table view data
-               NSLog(@"%@", dataDictionary);
+               //NSLog(@"%@", dataDictionary);
                self.news = dataDictionary[@"articles"];
                [self.tableView reloadData];
                [MBProgressHUD hideHUDForView:self.view animated:YES];
@@ -82,6 +90,10 @@
 
 - (NSInteger)tableView:(nonnull UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     return 10;
+}
+
+- (IBAction)indexChanged:(id)sender {
+    [self fetchNews];
 }
 
 @end

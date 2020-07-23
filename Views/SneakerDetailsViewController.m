@@ -49,6 +49,7 @@
     self.view1.layer.cornerRadius = 3;
     self.view2.layer.cornerRadius = 3;
     self.view3.layer.cornerRadius = 3;
+    self.view4.layer.cornerRadius = 3;
     
 }
 

@@ -19,7 +19,7 @@
 @property (strong, nonatomic) NSMutableArray *sneakers;
 @property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
 @property (nonatomic) BOOL shouldDelete;
-
+@property (nonatomic) BOOL shouldAnimate;
 @end
 
 @implementation StocksViewController
@@ -55,8 +55,9 @@
     [dateFormatter setDateFormat:@"MMMM dd"];
     self.dateLabel.text = [dateFormatter stringFromDate:[NSDate date]];
     
-    // Delete bool
+    // BOOL inits
     self.shouldDelete = NO;
+    self.shouldAnimate = YES;
 }
 
 
@@ -125,7 +126,12 @@
                 int lastSalePriceInt = [lastSalePrice intValue];
                 cell.priceLabel.format = @"$%d";
                 cell.priceLabel.method = UILabelCountingMethodEaseInOut;
-                [cell.priceLabel countFromZeroTo:lastSalePriceInt];
+                if (self.shouldAnimate) {
+                    [cell.priceLabel countFromZeroTo:lastSalePriceInt];
+                    self.shouldAnimate = NO;
+                } else {
+                    cell.priceLabel.text = [sneaker[@"lastSalePrice"] stringByReplacingOccurrencesOfString:@"," withString:@""];
+                }
                 NSData * imageData = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:sneaker[@"imageURL"]]];
                 cell.sneakerPicture.image = [UIImage imageWithData: imageData];
                 if ([sneaker[@"didPriceIncrease"] boolValue] == NO) {
