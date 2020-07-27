@@ -49,8 +49,8 @@ DeadStock is a convenient way to see how the sneaker market is doing, track its 
    * User can search for and add sneakers to dashboard
 * Details Screen
     * User can view the details of a sneaker by tapping on its profile
-* Wish-List Screen
-    * User can add and view all sneakers on their wish-list
+* News Screen
+    * User can add and view top sneaker news articles from popular sources
 
 ### 3. Navigation
 
