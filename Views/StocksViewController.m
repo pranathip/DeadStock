@@ -12,6 +12,10 @@
 #import "NilCell.h"
 #import "Sneaker.h"
 #import "SneakerDetailsViewController.h"
+#define degreesToRadians(x) (M_PI * (x) / 180.0)
+#define kAnimationRotateDeg 0.5
+#define kAnimationTranslateX 1.0
+#define kAnimationTranslateY 1.0
 @import Parse;
 @import UICountingLabel;
 
@@ -107,6 +111,7 @@
                     cell.deleteButton.alpha = 1;
                     cell.deleteButton.tag = indexPath.row;
                     [cell.deleteButton addTarget:self action:@selector(didTapDelete:) forControlEvents:UIControlEventTouchUpInside];
+                    [self startJiggling:cell];
                 } else if (self.shouldDelete == NO) {
                     cell.deleteButton.alpha = 0;
                     cell.deleteButton.tag = indexPath.row;
@@ -218,4 +223,24 @@
     [self.collectionView reloadData];
 }
 
+- (void) startJiggling:(UICollectionViewCell*)cell {
+    CGPoint position = cell.center;
+
+    UIBezierPath *path = [UIBezierPath bezierPath];
+    [path moveToPoint:CGPointMake(position.x, position.y)];
+    [path addLineToPoint:CGPointMake(position.x-10, position.y)];
+    [path addLineToPoint:CGPointMake(position.x+10, position.y)];
+    [path addLineToPoint:CGPointMake(position.x-10, position.y)];
+    [path addLineToPoint:CGPointMake(position.x+10, position.y)];
+    [path addLineToPoint:CGPointMake(position.x, position.y)];
+
+    CAKeyframeAnimation *positionAnimation = [CAKeyframeAnimation animationWithKeyPath:@"position"];
+    positionAnimation.path = path.CGPath;
+    positionAnimation.duration = 0.5f;
+    positionAnimation.timingFunction = [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear];
+
+    [CATransaction begin];
+    [cell.layer addAnimation:positionAnimation forKey:nil];
+    [CATransaction commit];
+}
 @end
